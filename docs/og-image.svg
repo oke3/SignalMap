@@ -65,7 +65,7 @@
   <!-- Typography Layout -->
   <g font-family="Inter, system-ui, -apple-system, sans-serif">
     <!-- Main Title -->
-    <text x="600" y="280" text-anchor="middle" font-size="110" font-weight="800" fill="url(#textGradient)" style="letter-spacing: -2px;">GroundZero</text>
+    <text x="600" y="280" text-anchor="middle" font-size="110" font-weight="800" fill="url(#textGradient)" style="letter-spacing: -2px;">SignalMap</text>
     
     <!-- Accent Line -->
     <rect x="540" y="300" width="120" height="4" rx="2" fill="#3b82f6" />

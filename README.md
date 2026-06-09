@@ -1,16 +1,16 @@
-# GroundZero
+# SignalMap
 ### Intelligence. Curation. Density.
 
-![GroundZero Intelligence Map](docs/og-image.svg)
+![SignalMap Intelligence Map](docs/og-image.svg)
 
 **The definitive signal-to-noise filter for the technology frontier.**
 
-[Explore the Directory →](https://oke3.github.io/GroundZero/)
+[Explore the Directory →](https://oke3.github.io/SignalMap/)
 
 ---
 
 ## ⚡ The Thesis
-Information is abundant; intelligence is scarce. GroundZero is not a list—it is a high-fidelity map of the global tech news ecosystem. We eliminate the friction of discovery, providing a curated entry point into the outlets that actually move the needle.
+Information is abundant; intelligence is scarce. SignalMap is not a list—it is a high-fidelity map of the global tech news ecosystem. We eliminate the friction of discovery, providing a curated entry point into the outlets that actually move the needle.
 
 ## 📐 The Scale
 A meticulously maintained repository of technical authority.
@@ -44,4 +44,4 @@ Extreme performance is a requirement, not a feature.
 - **Experience**: A "smooth as fuck" UX designed for maximum density and minimum cognitive load.
 
 ## 🛡️ Privacy & Governance
-**Private-First.** GroundZero operates as a private repository. Only the final, optimized build is exposed to the public, ensuring the curation process remains an internal, high-fidelity operation.
+**Private-First.** SignalMap operates as a private repository. Only the final, optimized build is exposed to the public, ensuring the curation process remains an internal, high-fidelity operation.
