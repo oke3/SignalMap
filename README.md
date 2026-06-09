@@ -14,7 +14,7 @@ Information is abundant; intelligence is scarce. SignalMap is not a list—it is
 
 ## 📐 The Scale
 A meticulously maintained repository of technical authority.
-- **587 Curated Outlets**
+- **611 Curated Outlets**
 - **36 Deep-Dive Verticals**
 - **Zero Noise.**
 
