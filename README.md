@@ -3,6 +3,8 @@
 > **The fastest way to find quality tech news sources across any vertical.**
 
 [![Live Site](https://img.shields.io/badge/Live-SignalMap-2563eb?style=flat-square&logo=github&logoColor=white)](https://oke3.github.io/SignalMap/)
+
+> ⚡ **Preview the animated hero:** [`hero.html`](https://oke3.github.io/SignalMap/hero.html) — a code-typing composition built with [HyperFrames](https://hyperframes.heygen.com/). (Open in a browser to see it.)
 [![Outlets](https://img.shields.io/badge/Outlets-640+-22c55e?style=flat-square)](#)
 [![Verticals](https://img.shields.io/badge/Verticals-36-8b5cf6?style=flat-square)](#)
 [![Build](https://img.shields.io/badge/Build-Astro-ff4500?style=flat-square&logo=astro&logoColor=white)](https://astro.build)
