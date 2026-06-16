@@ -113,5 +113,5 @@
 
   <!-- Bottom stats bar -->
   <rect x="40" y="360" width="720" height="10" fill="#0c111a" rx="0 0 14 14"/>
-  <text x="60" y="368" fill="#415062" font-family="monospace" font-size="9">Built with HyperFrames · 640+ outlets · 36 verticals</text>
+  <text x="60" y="368" fill="#415062" font-family="monospace" font-size="9">640+ outlets · 36 verticals</text>
 </svg>

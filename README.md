@@ -10,7 +10,7 @@
 
 ![SignalMap Hero](https://oke3.github.io/SignalMap/hero.svg)
 
-> 🎬 Also see the [animated version](https://oke3.github.io/SignalMap/hero.html) — a code-typing composition built with [HyperFrames](https://hyperframes.heygen.com/).
+> 🎬 Also see the [animated version](https://oke3.github.io/SignalMap/hero.html).
 [![Outlets](https://img.shields.io/badge/Outlets-640+-22c55e?style=flat-square)](#)
 [![Verticals](https://img.shields.io/badge/Verticals-36-8b5cf6?style=flat-square)](#)
 [![Build](https://img.shields.io/badge/Build-Astro-ff4500?style=flat-square&logo=astro&logoColor=white)](https://astro.build)
