@@ -1,0 +1,5765 @@
+{
+  "outlets": [
+    {
+      "name": "AI News",
+      "url": "https://www.artificialintelligence-news.com/",
+      "focus": "Industry-specific AI developments",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Artificial Intelligence",
+      "emoji": "🤖"
+    },
+    {
+      "name": "Anthropic Blog",
+      "url": "https://www.anthropic.com/blog",
+      "focus": "AI safety and frontier models",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Artificial Intelligence",
+      "emoji": "🤖"
+    },
+    {
+      "name": "AssemblyAI Blog",
+      "url": "https://www.assemblyai.com/blog/",
+      "focus": "Speech recognition and audio AI",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Artificial Intelligence",
+      "emoji": "🤖"
+    },
+    {
+      "name": "Cohere Blog",
+      "url": "https://cohere.com/blog",
+      "focus": "Enterprise NLP and embedding models",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Artificial Intelligence",
+      "emoji": "🤖"
+    },
+    {
+      "name": "DeepMind Blog",
+      "url": "https://deepmind.google/blog/",
+      "focus": "DeepMind research and breakthroughs",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Artificial Intelligence",
+      "emoji": "🤖"
+    },
+    {
+      "name": "ElevenLabs Blog",
+      "url": "https://elevenlabs.io/blog",
+      "focus": "AI voice synthesis and audio",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Artificial Intelligence",
+      "emoji": "🤖"
+    },
+    {
+      "name": "Every",
+      "url": "https://every.to/",
+      "focus": "Practical AI insights and future of technology",
+      "type": "Newsletter",
+      "tier": "Primary",
+      "vertical": "Artificial Intelligence",
+      "emoji": "🤖"
+    },
+    {
+      "name": "Google AI Blog",
+      "url": "https://ai.googleblog.com/",
+      "focus": "Google AI research and products",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Artificial Intelligence",
+      "emoji": "🤖"
+    },
+    {
+      "name": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog",
+      "focus": "Open-source ML community",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Artificial Intelligence",
+      "emoji": "🤖"
+    },
+    {
+      "name": "Import AI",
+      "url": "https://importai.substack.com/",
+      "focus": "Weekly AI research roundup",
+      "type": "Newsletter",
+      "tier": "Primary",
+      "vertical": "Artificial Intelligence",
+      "emoji": "🤖"
+    },
+    {
+      "name": "Interconnects",
+      "url": "https://www.interconnects.ai/",
+      "focus": "AI research analysis and commentary",
+      "type": "Newsletter",
+      "tier": "Niche",
+      "vertical": "Artificial Intelligence",
+      "emoji": "🤖"
+    },
+    {
+      "name": "Last Week in AI",
+      "url": "https://lastweekin.ai/",
+      "focus": "Weekly AI news roundup and analysis",
+      "type": "Newsletter",
+      "tier": "Niche",
+      "vertical": "Artificial Intelligence",
+      "emoji": "🤖"
+    },
+    {
+      "name": "Latent Space Podcast",
+      "url": "https://www.latent.space/podcast",
+      "focus": "AI engineering and developer tools",
+      "type": "Podcast",
+      "tier": "Niche",
+      "vertical": "Artificial Intelligence",
+      "emoji": "🤖"
+    },
+    {
+      "name": "Lex Fridman Podcast",
+      "url": "https://lexfridman.com/podcast/",
+      "focus": "Deep AI and science conversations",
+      "type": "Podcast",
+      "tier": "Primary",
+      "vertical": "Artificial Intelligence",
+      "emoji": "🤖"
+    },
+    {
+      "name": "Meta AI Blog",
+      "url": "https://ai.meta.com/blog/",
+      "focus": "Meta AI research and open-source",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Artificial Intelligence",
+      "emoji": "🤖"
+    },
+    {
+      "name": "Midjourney Blog",
+      "url": "https://www.midjourney.com/explore?tab=top",
+      "focus": "AI image generation advances",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Artificial Intelligence",
+      "emoji": "🤖"
+    },
+    {
+      "name": "Mistral AI Blog",
+      "url": "https://mistral.ai/news/",
+      "focus": "Open-weight LLM development",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Artificial Intelligence",
+      "emoji": "🤖"
+    },
+    {
+      "name": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/topic/artificial-intelligence/",
+      "focus": "High-level AI research and societal impact",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Artificial Intelligence",
+      "emoji": "🤖"
+    },
+    {
+      "name": "OpenAI Blog",
+      "url": "https://openai.com/blog",
+      "focus": "Official updates and research from OpenAI",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Artificial Intelligence",
+      "emoji": "🤖"
+    },
+    {
+      "name": "Perplexity AI Blog",
+      "url": "https://www.perplexity.ai/hub/blog",
+      "focus": "AI search and answer engines",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Artificial Intelligence",
+      "emoji": "🤖"
+    },
+    {
+      "name": "Practical AI Podcast",
+      "url": "https://changelog.com/practicalai",
+      "focus": "AI applications, machine learning, and practical deployment",
+      "type": "Podcast",
+      "tier": "Niche",
+      "vertical": "Artificial Intelligence",
+      "emoji": "🤖"
+    },
+    {
+      "name": "Replicate Blog",
+      "url": "https://replicate.com/blog",
+      "focus": "Cloud ML inference platform",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Artificial Intelligence",
+      "emoji": "🤖"
+    },
+    {
+      "name": "Runway Blog",
+      "url": "https://runwayml.com/blog/",
+      "focus": "AI video generation research",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Artificial Intelligence",
+      "emoji": "🤖"
+    },
+    {
+      "name": "Stability AI Blog",
+      "url": "https://stability.ai/news",
+      "focus": "Generative AI and open models",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Artificial Intelligence",
+      "emoji": "🤖"
+    },
+    {
+      "name": "The AI Podcast (NVIDIA)",
+      "url": "https://blogs.nvidia.com/",
+      "focus": "Cutting-edge AI research interviews",
+      "type": "Podcast",
+      "tier": "Primary",
+      "vertical": "Artificial Intelligence",
+      "emoji": "🤖"
+    },
+    {
+      "name": "The Batch (Andrew Ng)",
+      "url": "https://www.deeplearning.ai/the-batch/",
+      "focus": "AI news from DeepLearning.AI",
+      "type": "Newsletter",
+      "tier": "Primary",
+      "vertical": "Artificial Intelligence",
+      "emoji": "🤖"
+    },
+    {
+      "name": "The Gradient",
+      "url": "https://thegradientpub.substack.com/",
+      "focus": "In-depth AI research and analysis",
+      "type": "Newsletter",
+      "tier": "Niche",
+      "vertical": "Artificial Intelligence",
+      "emoji": "🤖"
+    },
+    {
+      "name": "The Rundown AI",
+      "url": "https://www.therundown.ai/",
+      "focus": "Daily AI news and tools",
+      "type": "Newsletter",
+      "tier": "Primary",
+      "vertical": "Artificial Intelligence",
+      "emoji": "🤖"
+    },
+    {
+      "name": "The Verge (AI)",
+      "url": "https://www.theverge.com/ai-artificial-intelligence",
+      "focus": "Consumer-facing AI news",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Artificial Intelligence",
+      "emoji": "🤖"
+    },
+    {
+      "name": "VentureBeat AI",
+      "url": "https://venturebeat.com/category/ai",
+      "focus": "AI business and investment news",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Artificial Intelligence",
+      "emoji": "🤖"
+    },
+    {
+      "name": "404 Media",
+      "url": "https://www.404media.co/",
+      "focus": "Technology investigations and digital culture",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Cybersecurity",
+      "emoji": "🛡️"
+    },
+    {
+      "name": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/",
+      "focus": "Breaking malware and security news",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Cybersecurity",
+      "emoji": "🛡️"
+    },
+    {
+      "name": "CISA Blog",
+      "url": "https://www.cisa.gov/news-events/news",
+      "focus": "US cyber defense agency updates",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Cybersecurity",
+      "emoji": "🛡️"
+    },
+    {
+      "name": "CyberScoop",
+      "url": "https://cyberscoop.com/",
+      "focus": "Policy and government cyber news",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Cybersecurity",
+      "emoji": "🛡️"
+    },
+    {
+      "name": "CyberWire Daily",
+      "url": "https://thecyberwire.com/podcasts/daily-podcast",
+      "focus": "Daily cybersecurity news and analysis",
+      "type": "Podcast",
+      "tier": "Primary",
+      "vertical": "Cybersecurity",
+      "emoji": "🛡️"
+    },
+    {
+      "name": "Dark Reading",
+      "url": "https://www.darkreading.com/",
+      "focus": "Enterprise security and risk",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Cybersecurity",
+      "emoji": "🛡️"
+    },
+    {
+      "name": "Darknet Diaries",
+      "url": "https://darknetdiaries.com/",
+      "focus": "True stories from the dark side",
+      "type": "Podcast",
+      "tier": "Primary",
+      "vertical": "Cybersecurity",
+      "emoji": "🛡️"
+    },
+    {
+      "name": "Elastic Security Labs",
+      "url": "https://www.elastic.co/security-labs/",
+      "focus": "Threat research with detection rules",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Cybersecurity",
+      "emoji": "🛡️"
+    },
+    {
+      "name": "Hacker Valley Podcast",
+      "url": "https://hackervalley.com/",
+      "focus": "Cybersecurity culture and leadership",
+      "type": "Podcast",
+      "tier": "Niche",
+      "vertical": "Cybersecurity",
+      "emoji": "🛡️"
+    },
+    {
+      "name": "Krebs on Security",
+      "url": "https://krebsonsecurity.com/",
+      "focus": "Investigative cybercrime reporting",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Cybersecurity",
+      "emoji": "🛡️"
+    },
+    {
+      "name": "Mandiant Blog",
+      "url": "https://www.mandiant.com/resources/blog",
+      "focus": "Threat intelligence reports",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Cybersecurity",
+      "emoji": "🛡️"
+    },
+    {
+      "name": "NVISO Labs",
+      "url": "https://blog.nviso.eu/",
+      "focus": "European security research",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Cybersecurity",
+      "emoji": "🛡️"
+    },
+    {
+      "name": "Risky Business",
+      "url": "https://risky.biz/",
+      "focus": "Weekly infosec news and commentary podcast",
+      "type": "Podcast",
+      "tier": "Primary",
+      "vertical": "Cybersecurity",
+      "emoji": "🛡️"
+    },
+    {
+      "name": "SANS ISC Diary",
+      "url": "https://isc.sans.edu/",
+      "focus": "Daily internet storm center",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Cybersecurity",
+      "emoji": "🛡️"
+    },
+    {
+      "name": "Schneier on Security",
+      "url": "https://www.schneier.com/",
+      "focus": "Security thinking and cryptography",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Cybersecurity",
+      "emoji": "🛡️"
+    },
+    {
+      "name": "Securelist (Kaspersky)",
+      "url": "https://securelist.com/",
+      "focus": "Global threat landscape",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Cybersecurity",
+      "emoji": "🛡️"
+    },
+    {
+      "name": "Security Now",
+      "url": "https://twit.tv/shows/security-now",
+      "focus": "Weekly security deep-dive",
+      "type": "Podcast",
+      "tier": "Primary",
+      "vertical": "Cybersecurity",
+      "emoji": "🛡️"
+    },
+    {
+      "name": "SentinelOne Blog",
+      "url": "https://www.sentinelone.com/blog/",
+      "focus": "Autonomous security platform",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Cybersecurity",
+      "emoji": "🛡️"
+    },
+    {
+      "name": "Talos Intelligence",
+      "url": "https://blog.talosintelligence.com/",
+      "focus": "Cisco threat research and analysis",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Cybersecurity",
+      "emoji": "🛡️"
+    },
+    {
+      "name": "The CyberWire",
+      "url": "https://thecyberwire.com/",
+      "focus": "Cybersecurity news and analysis",
+      "type": "Podcast",
+      "tier": "Primary",
+      "vertical": "Cybersecurity",
+      "emoji": "🛡️"
+    },
+    {
+      "name": "The DFIR Report",
+      "url": "https://thedfirreport.com/",
+      "focus": "Real-world intrusion case studies",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Cybersecurity",
+      "emoji": "🛡️"
+    },
+    {
+      "name": "The Hacker News",
+      "url": "https://thehackernews.com/",
+      "focus": "General cybersecurity news",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Cybersecurity",
+      "emoji": "🛡️"
+    },
+    {
+      "name": "The Record (Recorded Future)",
+      "url": "https://therecord.media/",
+      "focus": "Original cybercrime journalism",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Cybersecurity",
+      "emoji": "🛡️"
+    },
+    {
+      "name": "TL;DR Sec",
+      "url": "https://tldrsec.com/",
+      "focus": "Daily high-signal security news",
+      "type": "Newsletter",
+      "tier": "Primary",
+      "vertical": "Cybersecurity",
+      "emoji": "🛡️"
+    },
+    {
+      "name": "Troy Hunt's Blog",
+      "url": "https://www.troyhunt.com/",
+      "focus": "Data breaches and security education",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Cybersecurity",
+      "emoji": "🛡️"
+    },
+    {
+      "name": "Unit 42 (Palo Alto)",
+      "url": "https://unit42.paloaltonetworks.com/",
+      "focus": "Threat research and analysis",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Cybersecurity",
+      "emoji": "🛡️"
+    },
+    {
+      "name": "VX Underground",
+      "url": "https://vx-underground.org/",
+      "focus": "Malware source code repository",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Cybersecurity",
+      "emoji": "🛡️"
+    },
+    {
+      "name": "AWS Architecture Blog",
+      "url": "https://aws.amazon.com/blogs/architecture/",
+      "focus": "AWS architectural best practices",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Cloud Computing",
+      "emoji": "☁️"
+    },
+    {
+      "name": "AWS Blog",
+      "url": "https://aws.amazon.com/blogs/",
+      "focus": "Official Amazon Web Services updates",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Cloud Computing",
+      "emoji": "☁️"
+    },
+    {
+      "name": "Azure Blog",
+      "url": "https://azure.microsoft.com/en-us/blog/",
+      "focus": "Official Microsoft Azure updates",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Cloud Computing",
+      "emoji": "☁️"
+    },
+    {
+      "name": "Cloudcast",
+      "url": "https://www.cloudcast.fm/",
+      "focus": "Deep cloud computing discussions",
+      "type": "Podcast",
+      "tier": "Primary",
+      "vertical": "Cloud Computing",
+      "emoji": "☁️"
+    },
+    {
+      "name": "Cloudflare Blog",
+      "url": "https://blog.cloudflare.com/",
+      "focus": "Internet performance and security",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Cloud Computing",
+      "emoji": "☁️"
+    },
+    {
+      "name": "CNCF Blog",
+      "url": "https://www.cncf.io/blog/",
+      "focus": "Cloud Native Computing Foundation",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Cloud Computing",
+      "emoji": "☁️"
+    },
+    {
+      "name": "Deno Blog",
+      "url": "https://deno.com/blog",
+      "focus": "JavaScript runtime cloud",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Cloud Computing",
+      "emoji": "☁️"
+    },
+    {
+      "name": "DigitalOcean Blog",
+      "url": "https://www.digitalocean.com/blog",
+      "focus": "Developer cloud tutorials and news",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Cloud Computing",
+      "emoji": "☁️"
+    },
+    {
+      "name": "Fly.io Blog",
+      "url": "https://fly.io/blog/",
+      "focus": "Edge computing and deployment",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Cloud Computing",
+      "emoji": "☁️"
+    },
+    {
+      "name": "Google Cloud Blog",
+      "url": "https://cloud.google.com/blog/",
+      "focus": "Official Google Cloud updates",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Cloud Computing",
+      "emoji": "☁️"
+    },
+    {
+      "name": "Hetzner Blog",
+      "url": "https://www.hetzner.com/pressroom/",
+      "focus": "German cloud hosting",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Cloud Computing",
+      "emoji": "☁️"
+    },
+    {
+      "name": "Kubernetes Blog",
+      "url": "https://kubernetes.io/blog/",
+      "focus": "Official Kubernetes updates",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Cloud Computing",
+      "emoji": "☁️"
+    },
+    {
+      "name": "Kubernetes Podcast from Google",
+      "url": "https://kubernetespodcast.com/",
+      "focus": "Weekly Kubernetes and cloud native news",
+      "type": "Podcast",
+      "tier": "Primary",
+      "vertical": "Cloud Computing",
+      "emoji": "☁️"
+    },
+    {
+      "name": "Last Week in AWS",
+      "url": "https://www.lastweekinaws.com/",
+      "focus": "Unfiltered AWS news and analysis",
+      "type": "Newsletter",
+      "tier": "Primary",
+      "vertical": "Cloud Computing",
+      "emoji": "☁️"
+    },
+    {
+      "name": "Netlify Blog",
+      "url": "https://www.netlify.com/blog/",
+      "focus": "Jamstack and serverless",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Cloud Computing",
+      "emoji": "☁️"
+    },
+    {
+      "name": "Railway Blog",
+      "url": "https://blog.railway.app/",
+      "focus": "Infrastructure provisioning",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Cloud Computing",
+      "emoji": "☁️"
+    },
+    {
+      "name": "Screaming in the Cloud",
+      "url": "https://www.lastweekinaws.com/podcast/",
+      "focus": "AWS and cloud industry interviews",
+      "type": "Podcast",
+      "tier": "Niche",
+      "vertical": "Cloud Computing",
+      "emoji": "☁️"
+    },
+    {
+      "name": "The New Stack",
+      "url": "https://thenewstack.io/",
+      "focus": "Cloud native and infrastructure news",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Cloud Computing",
+      "emoji": "☁️"
+    },
+    {
+      "name": "Vercel Blog",
+      "url": "https://vercel.com/blog",
+      "focus": "Frontend cloud platform",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Cloud Computing",
+      "emoji": "☁️"
+    },
+    {
+      "name": "Airbnb Engineering",
+      "url": "https://medium.com/airbnb-engineering",
+      "focus": "Travel and marketplace engineering",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Software Engineering",
+      "emoji": "💻"
+    },
+    {
+      "name": "Apple Developer Blog",
+      "url": "https://developer.apple.com/news/",
+      "focus": "Apple ecosystem development",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Software Engineering",
+      "emoji": "💻"
+    },
+    {
+      "name": "Bun Blog",
+      "url": "https://bun.sh/blog",
+      "focus": "JavaScript runtime performance",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Software Engineering",
+      "emoji": "💻"
+    },
+    {
+      "name": "Changelog Podcast",
+      "url": "https://changelog.com/podcast",
+      "focus": "Open source and software development conversations",
+      "type": "Podcast",
+      "tier": "Primary",
+      "vertical": "Software Engineering",
+      "emoji": "💻"
+    },
+    {
+      "name": "Datadog Engineering",
+      "url": "https://www.datadoghq.com/blog/engineering/",
+      "focus": "Monitoring and observability",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Software Engineering",
+      "emoji": "💻"
+    },
+    {
+      "name": "Discord Engineering",
+      "url": "https://discord.com/category/engineering",
+      "focus": "Real-time communication systems",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Software Engineering",
+      "emoji": "💻"
+    },
+    {
+      "name": "DZone",
+      "url": "https://dzone.com/",
+      "focus": "Developer knowledge sharing",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Software Engineering",
+      "emoji": "💻"
+    },
+    {
+      "name": "GitHub Blog",
+      "url": "https://github.blog/",
+      "focus": "Developer product and culture",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Software Engineering",
+      "emoji": "💻"
+    },
+    {
+      "name": "Google Developer Blog",
+      "url": "https://developers.googleblog.com/",
+      "focus": "Google platform and tools",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Software Engineering",
+      "emoji": "💻"
+    },
+    {
+      "name": "InfoQ",
+      "url": "https://www.infoq.com/",
+      "focus": "Software architecture and development",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Software Engineering",
+      "emoji": "💻"
+    },
+    {
+      "name": "Linear Blog",
+      "url": "https://linear.app/blog",
+      "focus": "Issue tracking and engineering velocity",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Software Engineering",
+      "emoji": "💻"
+    },
+    {
+      "name": "MoonRepo Blog",
+      "url": "https://moonrepo.dev/blog",
+      "focus": "Monorepo tooling and CI",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Software Engineering",
+      "emoji": "💻"
+    },
+    {
+      "name": "Netflix TechBlog",
+      "url": "https://netflixtechblog.medium.com/",
+      "focus": "Netflix engineering deep-dives",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Software Engineering",
+      "emoji": "💻"
+    },
+    {
+      "name": "O'Reilly Radar",
+      "url": "https://www.oreilly.com/radar/",
+      "focus": "Emerging technology trends and analysis",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Software Engineering",
+      "emoji": "💻"
+    },
+    {
+      "name": "Polars Blog",
+      "url": "https://pola.rs/posts/",
+      "focus": "Dataframe library engineering",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Software Engineering",
+      "emoji": "💻"
+    },
+    {
+      "name": "Sentry Blog",
+      "url": "https://blog.sentry.io/",
+      "focus": "Error monitoring and debugging",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Software Engineering",
+      "emoji": "💻"
+    },
+    {
+      "name": "Shopify Engineering",
+      "url": "https://shopify.engineering/",
+      "focus": "E-commerce platform engineering",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Software Engineering",
+      "emoji": "💻"
+    },
+    {
+      "name": "Slack Engineering",
+      "url": "https://slack.engineering/",
+      "focus": "Engineering at scale",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Software Engineering",
+      "emoji": "💻"
+    },
+    {
+      "name": "Software Engineering Daily",
+      "url": "https://softwareengineeringdaily.com/",
+      "focus": "Daily technical interviews",
+      "type": "Podcast",
+      "tier": "Primary",
+      "vertical": "Software Engineering",
+      "emoji": "💻"
+    },
+    {
+      "name": "Software Engineering Radio",
+      "url": "https://se-radio.net/",
+      "focus": "In-depth interviews on software engineering topics",
+      "type": "Podcast",
+      "tier": "Primary",
+      "vertical": "Software Engineering",
+      "emoji": "💻"
+    },
+    {
+      "name": "Stack Overflow Blog",
+      "url": "https://stackoverflow.blog/",
+      "focus": "Developer community insights",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Software Engineering",
+      "emoji": "💻"
+    },
+    {
+      "name": "The Pragmatic Engineer",
+      "url": "https://blog.pragmaticengineer.com/",
+      "focus": "Engineering management and career",
+      "type": "Newsletter",
+      "tier": "Primary",
+      "vertical": "Software Engineering",
+      "emoji": "💻"
+    },
+    {
+      "name": "Uber Engineering",
+      "url": "https://www.uber.com/en-US/blog/engineering/",
+      "focus": "Uber infrastructure and systems",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Software Engineering",
+      "emoji": "💻"
+    },
+    {
+      "name": "Vite Blog",
+      "url": "https://vite.dev/blog/",
+      "focus": "Next-gen frontend tooling",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Software Engineering",
+      "emoji": "💻"
+    },
+    {
+      "name": "9to5Google",
+      "url": "https://9to5google.com/",
+      "focus": "Pixel and Google ecosystem",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Consumer Electronics",
+      "emoji": "📱"
+    },
+    {
+      "name": "9to5Mac",
+      "url": "https://9to5mac.com/",
+      "focus": "Apple product news",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Consumer Electronics",
+      "emoji": "📱"
+    },
+    {
+      "name": "AnandTech",
+      "url": "https://www.anandtech.com/",
+      "focus": "In-depth chip and system analysis",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Consumer Electronics",
+      "emoji": "📱"
+    },
+    {
+      "name": "Android Authority",
+      "url": "https://www.androidauthority.com/",
+      "focus": "Android ecosystem and devices",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Consumer Electronics",
+      "emoji": "📱"
+    },
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/",
+      "focus": "Deep tech analysis",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Consumer Electronics",
+      "emoji": "📱"
+    },
+    {
+      "name": "Bloomberg Technology",
+      "url": "https://www.bloomberg.com/technology",
+      "focus": "Technology business, markets and industry news",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Consumer Electronics",
+      "emoji": "📱"
+    },
+    {
+      "name": "CNBC Technology",
+      "url": "https://www.cnbc.com/technology/",
+      "focus": "Technology sector news, stocks and investing",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Consumer Electronics",
+      "emoji": "📱"
+    },
+    {
+      "name": "CNET",
+      "url": "https://www.cnet.com/",
+      "focus": "Product reviews and consumer guides",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Consumer Electronics",
+      "emoji": "📱"
+    },
+    {
+      "name": "Digital Trends",
+      "url": "https://www.digitaltrends.com/",
+      "focus": "Consumer tech and living",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Consumer Electronics",
+      "emoji": "📱"
+    },
+    {
+      "name": "Engadget",
+      "url": "https://www.engadget.com/",
+      "focus": "Gadget news and reviews",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Consumer Electronics",
+      "emoji": "📱"
+    },
+    {
+      "name": "GSMArena",
+      "url": "https://www.gsmarena.com/",
+      "focus": "Phone specs and news",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Consumer Electronics",
+      "emoji": "📱"
+    },
+    {
+      "name": "MacRumors",
+      "url": "https://www.macrumors.com/",
+      "focus": "Apple rumors and updates",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Consumer Electronics",
+      "emoji": "📱"
+    },
+    {
+      "name": "Morning Brew Tech",
+      "url": "https://www.morningbrew.com/tech",
+      "focus": "Daily tech business news",
+      "type": "Newsletter",
+      "tier": "Primary",
+      "vertical": "Consumer Electronics",
+      "emoji": "📱"
+    },
+    {
+      "name": "PCMag",
+      "url": "https://www.pcmag.com/",
+      "focus": "Tech product reviews",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Consumer Electronics",
+      "emoji": "📱"
+    },
+    {
+      "name": "Rest of World",
+      "url": "https://restofworld.org/",
+      "focus": "Global technology coverage beyond the West",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Consumer Electronics",
+      "emoji": "📱"
+    },
+    {
+      "name": "Reuters Technology",
+      "url": "https://www.reuters.com/technology/",
+      "focus": "Global technology news and breaking tech coverage",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Consumer Electronics",
+      "emoji": "📱"
+    },
+    {
+      "name": "SlashGear",
+      "url": "https://www.slashgear.com/",
+      "focus": "Gadgets and auto tech",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Consumer Electronics",
+      "emoji": "📱"
+    },
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/",
+      "focus": "Startup and consumer tech",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Consumer Electronics",
+      "emoji": "📱"
+    },
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/",
+      "focus": "Consumer tech and policy",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Consumer Electronics",
+      "emoji": "📱"
+    },
+    {
+      "name": "The Vergecast",
+      "url": "https://www.theverge.com/the-vergecast",
+      "focus": "Weekly tech discussion",
+      "type": "Podcast",
+      "tier": "Primary",
+      "vertical": "Consumer Electronics",
+      "emoji": "📱"
+    },
+    {
+      "name": "Tom's Guide",
+      "url": "https://www.tomsguide.com/",
+      "focus": "Hardware reviews and guides",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Consumer Electronics",
+      "emoji": "📱"
+    },
+    {
+      "name": "Trusted Reviews",
+      "url": "https://www.trustedreviews.com/",
+      "focus": "UK consumer electronics",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Consumer Electronics",
+      "emoji": "📱"
+    },
+    {
+      "name": "Wall Street Journal Tech",
+      "url": "https://www.wsj.com/tech",
+      "focus": "Technology industry news and analysis",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Consumer Electronics",
+      "emoji": "📱"
+    },
+    {
+      "name": "Waveform (MKBHD)",
+      "url": "https://www.youtube.com/@MKBHD",
+      "focus": "Tech reviews and interviews",
+      "type": "Podcast",
+      "tier": "Primary",
+      "vertical": "Consumer Electronics",
+      "emoji": "📱"
+    },
+    {
+      "name": "Wired",
+      "url": "https://www.wired.com/",
+      "focus": "Tech culture and hardware",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Consumer Electronics",
+      "emoji": "📱"
+    },
+    {
+      "name": "Breaking Banks",
+      "url": "https://breakingbanks.com/",
+      "focus": "Global fintech disruption",
+      "type": "Podcast",
+      "tier": "Primary",
+      "vertical": "FinTech",
+      "emoji": "💰"
+    },
+    {
+      "name": "Finextra",
+      "url": "https://www.finextra.com/",
+      "focus": "Financial technology news",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "FinTech",
+      "emoji": "💰"
+    },
+    {
+      "name": "FinTech Futures",
+      "url": "https://www.fintechfutures.com/",
+      "focus": "Future of finance",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "FinTech",
+      "emoji": "💰"
+    },
+    {
+      "name": "Fintech Nexus",
+      "url": "https://www.fintechnexus.com/",
+      "focus": "Payments and lending news",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "FinTech",
+      "emoji": "💰"
+    },
+    {
+      "name": "FinTech Weekly Newsletter",
+      "url": "https://fintechweekly.substack.com/",
+      "focus": "Financial technology news and analysis",
+      "type": "Newsletter",
+      "tier": "Primary",
+      "vertical": "FinTech",
+      "emoji": "💰"
+    },
+    {
+      "name": "Monzo Blog",
+      "url": "https://monzo.com/blog/",
+      "focus": "UK challenger bank",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "FinTech",
+      "emoji": "💰"
+    },
+    {
+      "name": "Plaid Blog",
+      "url": "https://plaid.com/blog/",
+      "focus": "Financial connectivity API",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "FinTech",
+      "emoji": "💰"
+    },
+    {
+      "name": "Revolut Blog",
+      "url": "https://www.revolut.com/blog/",
+      "focus": "Digital banking innovation",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "FinTech",
+      "emoji": "💰"
+    },
+    {
+      "name": "Square/Cash App Blog",
+      "url": "https://squareup.com/us/en/townsquare",
+      "focus": "Seller and payment tools",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "FinTech",
+      "emoji": "💰"
+    },
+    {
+      "name": "Stripe Blog",
+      "url": "https://stripe.com/blog",
+      "focus": "Online payments and economics",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "FinTech",
+      "emoji": "💰"
+    },
+    {
+      "name": "The Diff",
+      "url": "https://www.thediff.co/",
+      "focus": "Infrastructure finance and FinTech analysis",
+      "type": "Newsletter",
+      "tier": "Primary",
+      "vertical": "FinTech",
+      "emoji": "💰"
+    },
+    {
+      "name": "The Financial Brand",
+      "url": "https://thefinancialbrand.com/",
+      "focus": "Digital banking strategy",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "FinTech",
+      "emoji": "💰"
+    },
+    {
+      "name": "Wise Blog",
+      "url": "https://wise.com/blog/",
+      "focus": "Cross-border payments",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "FinTech",
+      "emoji": "💰"
+    },
+    {
+      "name": "Carbon Health Blog",
+      "url": "https://carbonhealth.com/blog",
+      "focus": "Hybrid healthcare tech",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "HealthTech",
+      "emoji": "🏥"
+    },
+    {
+      "name": "Digital Health",
+      "url": "https://digitalhealth.net/",
+      "focus": "Cutting-edge health technology",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "HealthTech",
+      "emoji": "🏥"
+    },
+    {
+      "name": "Digital Health Insights",
+      "url": "https://www.digitalhealthinsights.com/",
+      "focus": "Digital health industry analysis",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "HealthTech",
+      "emoji": "🏥"
+    },
+    {
+      "name": "Digital Health Today",
+      "url": "https://digitalhealthtoday.com/",
+      "focus": "Global digital health innovation podcast",
+      "type": "Podcast",
+      "tier": "Niche",
+      "vertical": "HealthTech",
+      "emoji": "🏥"
+    },
+    {
+      "name": "Doximity Blog",
+      "url": "https://blog.doximity.com/",
+      "focus": "Physician network technology",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "HealthTech",
+      "emoji": "🏥"
+    },
+    {
+      "name": "FDA Digital Health",
+      "url": "https://www.fda.gov/medical-devices/digital-health-center-excellence",
+      "focus": "Regulatory digital health",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "HealthTech",
+      "emoji": "🏥"
+    },
+    {
+      "name": "Fierce Healthcare",
+      "url": "https://www.fiercehealthcare.com/",
+      "focus": "Healthcare business and policy news",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "HealthTech",
+      "emoji": "🏥"
+    },
+    {
+      "name": "Flatiron Health Blog",
+      "url": "https://flatiron.com/blog/",
+      "focus": "Oncology data platform",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "HealthTech",
+      "emoji": "🏥"
+    },
+    {
+      "name": "Health Tech Nerds",
+      "url": "https://www.healthtechnerds.com/",
+      "focus": "Digital health community and insights",
+      "type": "Newsletter",
+      "tier": "Niche",
+      "vertical": "HealthTech",
+      "emoji": "🏥"
+    },
+    {
+      "name": "Health Tech Weekly",
+      "url": "https://www.healthtechweekly.com/",
+      "focus": "Weekly digital health and health IT news",
+      "type": "Newsletter",
+      "tier": "Niche",
+      "vertical": "HealthTech",
+      "emoji": "🏥"
+    },
+    {
+      "name": "Healthcare IT News",
+      "url": "https://www.healthcareitnews.com/",
+      "focus": "Digital health IT strategy",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "HealthTech",
+      "emoji": "🏥"
+    },
+    {
+      "name": "MedCity News",
+      "url": "https://medcitynews.com/",
+      "focus": "Healthcare business and innovation",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "HealthTech",
+      "emoji": "🏥"
+    },
+    {
+      "name": "MedTech Dive",
+      "url": "https://www.medtechdive.com/",
+      "focus": "Medical device industry",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "HealthTech",
+      "emoji": "🏥"
+    },
+    {
+      "name": "MobiHealthNews",
+      "url": "https://www.mobihealthnews.com/",
+      "focus": "Healthcare IT and digital health",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "HealthTech",
+      "emoji": "🏥"
+    },
+    {
+      "name": "NEJM Catalyst",
+      "url": "https://catalyst.nejm.org/",
+      "focus": "Healthcare delivery innovation",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "HealthTech",
+      "emoji": "🏥"
+    },
+    {
+      "name": "Rock Health",
+      "url": "https://rockhealth.com/",
+      "focus": "Digital health funding and research",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "HealthTech",
+      "emoji": "🏥"
+    },
+    {
+      "name": "Stat News",
+      "url": "https://www.statnews.com/",
+      "focus": "Health, medicine and life sciences",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "HealthTech",
+      "emoji": "🏥"
+    },
+    {
+      "name": "THCB (The Health Care Blog)",
+      "url": "https://thehealthcareblog.com/",
+      "focus": "Healthcare policy and technology analysis",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "HealthTech",
+      "emoji": "🏥"
+    },
+    {
+      "name": "The Digital Health Investor",
+      "url": "https://www.digitalhealthinvestor.com/",
+      "focus": "Health tech investment and funding",
+      "type": "Newsletter",
+      "tier": "Niche",
+      "vertical": "HealthTech",
+      "emoji": "🏥"
+    },
+    {
+      "name": "The Healthcare Blog",
+      "url": "https://thehealthcareblog.com/",
+      "focus": "Health policy and technology commentary",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "HealthTech",
+      "emoji": "🏥"
+    },
+    {
+      "name": "Zocdoc Blog",
+      "url": "https://www.zocdoc.com/about/blog/",
+      "focus": "Healthcare marketplace",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "HealthTech",
+      "emoji": "🏥"
+    },
+    {
+      "name": "23andMe Blog",
+      "url": "https://blog.23andme.com/",
+      "focus": "Consumer genetics",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Biotech",
+      "emoji": "🧬"
+    },
+    {
+      "name": "Benchling Blog",
+      "url": "https://www.benchling.com/blog",
+      "focus": "R&D cloud platform for biotech",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Biotech",
+      "emoji": "🧬"
+    },
+    {
+      "name": "BioSpace",
+      "url": "https://www.biospace.com/",
+      "focus": "Biopharma news and careers",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Biotech",
+      "emoji": "🧬"
+    },
+    {
+      "name": "Biotech 2050 Podcast",
+      "url": "https://www.biotech2050.com/",
+      "focus": "Biotechnology innovation and future trends",
+      "type": "Podcast",
+      "tier": "Niche",
+      "vertical": "Biotech",
+      "emoji": "🧬"
+    },
+    {
+      "name": "CRISPR Medicine News",
+      "url": "https://crisprmedicinenews.com/",
+      "focus": "Gene editing developments",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Biotech",
+      "emoji": "🧬"
+    },
+    {
+      "name": "Endpoints News",
+      "url": "https://endpointnews.com/",
+      "focus": "Biopharma industry intelligence",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Biotech",
+      "emoji": "🧬"
+    },
+    {
+      "name": "Fierce Biotech",
+      "url": "https://www.fiercebiotech.com/",
+      "focus": "Drug discovery and biotech news",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Biotech",
+      "emoji": "🧬"
+    },
+    {
+      "name": "GEN (Genetic Engineering News)",
+      "url": "https://www.genengnews.com/",
+      "focus": "Biotechnology industry and science",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Biotech",
+      "emoji": "🧬"
+    },
+    {
+      "name": "Moderna Blog",
+      "url": "https://www.modernatx.com/newsroom/news-and-media",
+      "focus": "mRNA therapeutics",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Biotech",
+      "emoji": "🧬"
+    },
+    {
+      "name": "Nature Biotechnology",
+      "url": "https://www.nature.com/nbt/",
+      "focus": "High-impact biotech research",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Biotech",
+      "emoji": "🧬"
+    },
+    {
+      "name": "Pfizer R&D",
+      "url": "https://www.pfizer.com/science",
+      "focus": "Pharmaceutical innovation",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Biotech",
+      "emoji": "🧬"
+    },
+    {
+      "name": "STAT Biotech",
+      "url": "https://www.statnews.com/category/biotech/",
+      "focus": "Biotech investigative reporting",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Biotech",
+      "emoji": "🧬"
+    },
+    {
+      "name": "Synbiobeta",
+      "url": "https://www.synbiobeta.com/",
+      "focus": "Synthetic biology community",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Biotech",
+      "emoji": "🧬"
+    },
+    {
+      "name": "The Biotech Startups Podcast",
+      "url": "https://www.biotechstartups.com/",
+      "focus": "Biotechnology entrepreneurship and innovation",
+      "type": "Podcast",
+      "tier": "Niche",
+      "vertical": "Biotech",
+      "emoji": "🧬"
+    },
+    {
+      "name": "Destructoid",
+      "url": "https://www.destructoid.com/",
+      "focus": "Indie and community gaming",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Gaming & XR",
+      "emoji": "🎮"
+    },
+    {
+      "name": "Eurogamer",
+      "url": "https://www.eurogamer.net/",
+      "focus": "European gaming perspective",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Gaming & XR",
+      "emoji": "🎮"
+    },
+    {
+      "name": "Game Developer (Gamasutra)",
+      "url": "https://www.gamedeveloper.com/",
+      "focus": "Game development and design",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Gaming & XR",
+      "emoji": "🎮"
+    },
+    {
+      "name": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/",
+      "focus": "Gaming business and market",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Gaming & XR",
+      "emoji": "🎮"
+    },
+    {
+      "name": "Gematsu",
+      "url": "https://www.gematsu.com/",
+      "focus": "Japanese gaming news",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Gaming & XR",
+      "emoji": "🎮"
+    },
+    {
+      "name": "IGN",
+      "url": "https://www.ign.com/",
+      "focus": "Comprehensive gaming news",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Gaming & XR",
+      "emoji": "🎮"
+    },
+    {
+      "name": "Kotaku",
+      "url": "https://kotaku.com/",
+      "focus": "Gaming culture and commentary",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Gaming & XR",
+      "emoji": "🎮"
+    },
+    {
+      "name": "Mixed News",
+      "url": "https://mixed-news.com/",
+      "focus": "Mixed reality industry",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Gaming & XR",
+      "emoji": "🎮"
+    },
+    {
+      "name": "Nintendo Everything",
+      "url": "https://nintendoeverything.com/",
+      "focus": "Nintendo news and rumors",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Gaming & XR",
+      "emoji": "🎮"
+    },
+    {
+      "name": "PC Gamer",
+      "url": "https://www.pcgamer.com/",
+      "focus": "PC hardware and gaming",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Gaming & XR",
+      "emoji": "🎮"
+    },
+    {
+      "name": "Polygon",
+      "url": "https://www.polygon.com/",
+      "focus": "Gaming and pop culture",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Gaming & XR",
+      "emoji": "🎮"
+    },
+    {
+      "name": "Pure Xbox",
+      "url": "https://www.purexbox.com/",
+      "focus": "Xbox ecosystem",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Gaming & XR",
+      "emoji": "🎮"
+    },
+    {
+      "name": "Push Square",
+      "url": "https://www.pushsquare.com/",
+      "focus": "PlayStation ecosystem",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Gaming & XR",
+      "emoji": "🎮"
+    },
+    {
+      "name": "Road to VR",
+      "url": "https://www.roadtovr.com/",
+      "focus": "Virtual and Augmented Reality",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Gaming & XR",
+      "emoji": "🎮"
+    },
+    {
+      "name": "Rock Paper Shotgun",
+      "url": "https://www.rockpapershotgun.com/",
+      "focus": "PC gaming news and reviews",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Gaming & XR",
+      "emoji": "🎮"
+    },
+    {
+      "name": "Siliconera",
+      "url": "https://www.siliconera.com/",
+      "focus": "Anime and JRPG news",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Gaming & XR",
+      "emoji": "🎮"
+    },
+    {
+      "name": "Triple Click Podcast",
+      "url": "https://www.maximumfun.org/podcasts/triple-click/",
+      "focus": "Video game analysis and criticism",
+      "type": "Podcast",
+      "tier": "Niche",
+      "vertical": "Gaming & XR",
+      "emoji": "🎮"
+    },
+    {
+      "name": "UploadVR",
+      "url": "https://www.uploadvr.com/",
+      "focus": "VR and AR specialized news",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Gaming & XR",
+      "emoji": "🎮"
+    },
+    {
+      "name": "VGC (Video Games Chronicle)",
+      "url": "https://www.videogameschronicle.com/",
+      "focus": "Games industry breaking news",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Gaming & XR",
+      "emoji": "🎮"
+    },
+    {
+      "name": "a16z Crypto",
+      "url": "https://a16zcrypto.com/",
+      "focus": "Web3 investment thesis",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Web3 & Blockchain",
+      "emoji": "⛓️"
+    },
+    {
+      "name": "Bankless",
+      "url": "https://www.bankless.com/",
+      "focus": "Decentralized finance frontier",
+      "type": "Podcast",
+      "tier": "Primary",
+      "vertical": "Web3 & Blockchain",
+      "emoji": "⛓️"
+    },
+    {
+      "name": "Blockchain Weekly Newsletter",
+      "url": "https://blockchainweekly.substack.com/",
+      "focus": "Blockchain and crypto industry updates",
+      "type": "Newsletter",
+      "tier": "Niche",
+      "vertical": "Web3 & Blockchain",
+      "emoji": "⛓️"
+    },
+    {
+      "name": "Chainlink Blog",
+      "url": "https://blog.chain.link/",
+      "focus": "Oracle network development",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Web3 & Blockchain",
+      "emoji": "⛓️"
+    },
+    {
+      "name": "CoinDesk",
+      "url": "https://www.coindesk.com/",
+      "focus": "Crypto and blockchain news",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Web3 & Blockchain",
+      "emoji": "⛓️"
+    },
+    {
+      "name": "Cointelegraph",
+      "url": "https://cointelegraph.com/",
+      "focus": "Crypto market news",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Web3 & Blockchain",
+      "emoji": "⛓️"
+    },
+    {
+      "name": "Decrypt",
+      "url": "https://decrypt.co/",
+      "focus": "Accessible crypto reporting",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Web3 & Blockchain",
+      "emoji": "⛓️"
+    },
+    {
+      "name": "Delphi Digital",
+      "url": "https://members.delphidigital.io/",
+      "focus": "Crypto research and analysis",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Web3 & Blockchain",
+      "emoji": "⛓️"
+    },
+    {
+      "name": "Ethereum Blog",
+      "url": "https://blog.ethereum.org/",
+      "focus": "Official Ethereum Foundation updates",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Web3 & Blockchain",
+      "emoji": "⛓️"
+    },
+    {
+      "name": "Messari",
+      "url": "https://messari.io/",
+      "focus": "Crypto market intelligence",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Web3 & Blockchain",
+      "emoji": "⛓️"
+    },
+    {
+      "name": "Paradigm Research",
+      "url": "https://paradigm.xyz/writing",
+      "focus": "Crypto and protocol research",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Web3 & Blockchain",
+      "emoji": "⛓️"
+    },
+    {
+      "name": "Solana Blog",
+      "url": "https://solana.com/news",
+      "focus": "Solana ecosystem news",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Web3 & Blockchain",
+      "emoji": "⛓️"
+    },
+    {
+      "name": "The Block",
+      "url": "https://www.theblock.co/",
+      "focus": "Data-driven blockchain analysis",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Web3 & Blockchain",
+      "emoji": "⛓️"
+    },
+    {
+      "name": "Unchained (Laura Shin)",
+      "url": "https://unchainedcrypto.com/",
+      "focus": "Crypto journalism and interviews",
+      "type": "Podcast",
+      "tier": "Primary",
+      "vertical": "Web3 & Blockchain",
+      "emoji": "⛓️"
+    },
+    {
+      "name": "Variant Fund",
+      "url": "https://variant.fund/writing/",
+      "focus": "Crypto venture research",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Web3 & Blockchain",
+      "emoji": "⛓️"
+    },
+    {
+      "name": "Blue Origin Blog",
+      "url": "https://www.blueorigin.com/news",
+      "focus": "Blue Origin updates",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "SpaceTech",
+      "emoji": "🚀"
+    },
+    {
+      "name": "European Space Agency",
+      "url": "https://www.esa.int/Science_Exploration",
+      "focus": "European space missions",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "SpaceTech",
+      "emoji": "🚀"
+    },
+    {
+      "name": "Firefly Aerospace",
+      "url": "https://firefly.com/news/",
+      "focus": "Small launch vehicles",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "SpaceTech",
+      "emoji": "🚀"
+    },
+    {
+      "name": "NASA Blog",
+      "url": "https://blogs.nasa.gov/",
+      "focus": "Official NASA missions and research",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "SpaceTech",
+      "emoji": "🚀"
+    },
+    {
+      "name": "NASASpaceFlight",
+      "url": "https://nasaspaceflight.com/",
+      "focus": "Detailed space launch tracking",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "SpaceTech",
+      "emoji": "🚀"
+    },
+    {
+      "name": "Payload",
+      "url": "https://payloadspace.com/",
+      "focus": "Space business and policy",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "SpaceTech",
+      "emoji": "🚀"
+    },
+    {
+      "name": "Planet Labs Blog",
+      "url": "https://www.planet.com/pulse/",
+      "focus": "Satellite imagery and earth observation",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "SpaceTech",
+      "emoji": "🚀"
+    },
+    {
+      "name": "Relativity Space",
+      "url": "https://www.relativityspace.com/news",
+      "focus": "3D-printed rockets",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "SpaceTech",
+      "emoji": "🚀"
+    },
+    {
+      "name": "Rocket Lab Blog",
+      "url": "https://www.rocketlabusa.com/updates/",
+      "focus": "Small satellite launch news",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "SpaceTech",
+      "emoji": "🚀"
+    },
+    {
+      "name": "Space Coast Daily",
+      "url": "https://spacecoastdaily.com/",
+      "focus": "Space industry and aerospace news",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "SpaceTech",
+      "emoji": "🚀"
+    },
+    {
+      "name": "Space.com",
+      "url": "https://www.space.com/",
+      "focus": "Consumer space news and features",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "SpaceTech",
+      "emoji": "🚀"
+    },
+    {
+      "name": "SpaceNews",
+      "url": "https://spacenews.com/",
+      "focus": "Industry standard for space news",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "SpaceTech",
+      "emoji": "🚀"
+    },
+    {
+      "name": "SpaceX Updates",
+      "url": "https://www.spacex.com/updates/",
+      "focus": "Official SpaceX mission updates",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "SpaceTech",
+      "emoji": "🚀"
+    },
+    {
+      "name": "The Orbital Index",
+      "url": "https://orbitalindex.com/",
+      "focus": "Weekly space industry newsletter",
+      "type": "Newsletter",
+      "tier": "Primary",
+      "vertical": "SpaceTech",
+      "emoji": "🚀"
+    },
+    {
+      "name": "Virgin Galactic",
+      "url": "https://www.virgingalactic.com/news/",
+      "focus": "Commercial spaceflight",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "SpaceTech",
+      "emoji": "🚀"
+    },
+    {
+      "name": "Breaking Defense",
+      "url": "https://breakingdefense.com/",
+      "focus": "Defense industry and military technology",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "GovTech & RegTech",
+      "emoji": "🏛️"
+    },
+    {
+      "name": "Cipher Brief",
+      "url": "https://www.thecipherbrief.com/",
+      "focus": "National security intelligence",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "GovTech & RegTech",
+      "emoji": "🏛️"
+    },
+    {
+      "name": "ComplyAdvantage Blog",
+      "url": "https://complyadvantage.com/insights/",
+      "focus": "Financial crime compliance",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "GovTech & RegTech",
+      "emoji": "🏛️"
+    },
+    {
+      "name": "Data Coalition",
+      "url": "https://datacoalition.org/",
+      "focus": "Open government data",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "GovTech & RegTech",
+      "emoji": "🏛️"
+    },
+    {
+      "name": "DataGuidance",
+      "url": "https://www.dataguidance.com/",
+      "focus": "Global data protection and privacy regulation",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "GovTech & RegTech",
+      "emoji": "🏛️"
+    },
+    {
+      "name": "Defense One",
+      "url": "https://www.defenseone.com/",
+      "focus": "National security and defense technology",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "GovTech & RegTech",
+      "emoji": "🏛️"
+    },
+    {
+      "name": "DigitalGov",
+      "url": "https://digital.gov/",
+      "focus": "US government digital services",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "GovTech & RegTech",
+      "emoji": "🏛️"
+    },
+    {
+      "name": "E-Government Journal",
+      "url": "https://egovjournal.com/",
+      "focus": "E-governance research",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "GovTech & RegTech",
+      "emoji": "🏛️"
+    },
+    {
+      "name": "FedScoop",
+      "url": "https://fedscoop.com/",
+      "focus": "Federal technology and IT modernization",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "GovTech & RegTech",
+      "emoji": "🏛️"
+    },
+    {
+      "name": "GCN",
+      "url": "https://gcn.com/",
+      "focus": "Government technology and systems integration",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "GovTech & RegTech",
+      "emoji": "🏛️"
+    },
+    {
+      "name": "GovTech Today",
+      "url": "https://www.govtechtoday.com/",
+      "focus": "Government technology news and digital transformation",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "GovTech & RegTech",
+      "emoji": "🏛️"
+    },
+    {
+      "name": "GovTech.com",
+      "url": "https://www.govtech.com/",
+      "focus": "Technology in government",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "GovTech & RegTech",
+      "emoji": "🏛️"
+    },
+    {
+      "name": "GSA Blog",
+      "url": "https://www.gsa.gov/blog",
+      "focus": "US federal procurement tech",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "GovTech & RegTech",
+      "emoji": "🏛️"
+    },
+    {
+      "name": "Lawfare",
+      "url": "https://www.lawfaremedia.org/",
+      "focus": "National security and law",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "GovTech & RegTech",
+      "emoji": "🏛️"
+    },
+    {
+      "name": "MeriTalk",
+      "url": "https://www.meritalk.com/",
+      "focus": "Government IT news and analysis",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "GovTech & RegTech",
+      "emoji": "🏛️"
+    },
+    {
+      "name": "NextGov",
+      "url": "https://www.nextgov.com/",
+      "focus": "Federal IT and modernization",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "GovTech & RegTech",
+      "emoji": "🏛️"
+    },
+    {
+      "name": "OECD Digital Gov",
+      "url": "https://oecd.org/digital/",
+      "focus": "Global digital government policy",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "GovTech & RegTech",
+      "emoji": "🏛️"
+    },
+    {
+      "name": "RegTech Analyst",
+      "url": "https://www.regtechanalyst.com/",
+      "focus": "Regulatory technology intelligence",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "GovTech & RegTech",
+      "emoji": "🏛️"
+    },
+    {
+      "name": "Route Fifty",
+      "url": "https://www.routefifty.com/",
+      "focus": "State and local government tech",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "GovTech & RegTech",
+      "emoji": "🏛️"
+    },
+    {
+      "name": "StateScoop",
+      "url": "https://statescoop.com/",
+      "focus": "State government tech",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "GovTech & RegTech",
+      "emoji": "🏛️"
+    },
+    {
+      "name": "Bloomberg Green",
+      "url": "https://www.bloomberg.com/green",
+      "focus": "Sustainable business and policy",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "CleanTech & Energy",
+      "emoji": "🌿"
+    },
+    {
+      "name": "Bloomberg NEF",
+      "url": "https://about.bnef.com/",
+      "focus": "Energy transition research",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "CleanTech & Energy",
+      "emoji": "🌿"
+    },
+    {
+      "name": "Canary Media",
+      "url": "https://canarymedia.com/",
+      "focus": "The climate transition",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "CleanTech & Energy",
+      "emoji": "🌿"
+    },
+    {
+      "name": "Carbon Brief",
+      "url": "https://www.carbonbrief.org/",
+      "focus": "Climate science and policy",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "CleanTech & Energy",
+      "emoji": "🌿"
+    },
+    {
+      "name": "CleanTechnica",
+      "url": "https://cleantechnica.com/",
+      "focus": "Clean technology news",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "CleanTech & Energy",
+      "emoji": "🌿"
+    },
+    {
+      "name": "Climate Positive Podcast",
+      "url": "https://www.climatepositivepodcast.com/",
+      "focus": "Climate tech and sustainability solutions",
+      "type": "Podcast",
+      "tier": "Niche",
+      "vertical": "CleanTech & Energy",
+      "emoji": "🌿"
+    },
+    {
+      "name": "Electrek",
+      "url": "https://electrek.co/",
+      "focus": "EV and clean energy news",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "CleanTech & Energy",
+      "emoji": "🌿"
+    },
+    {
+      "name": "Energy Storage News",
+      "url": "https://www.energy-storage.news/",
+      "focus": "Battery and storage industry",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "CleanTech & Energy",
+      "emoji": "🌿"
+    },
+    {
+      "name": "Form Energy Blog",
+      "url": "https://formenergy.com/news/",
+      "focus": "Long-duration battery storage",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "CleanTech & Energy",
+      "emoji": "🌿"
+    },
+    {
+      "name": "GreenTech Media",
+      "url": "https://www.greentechmedia.com/",
+      "focus": "Global energy transition",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "CleanTech & Energy",
+      "emoji": "🌿"
+    },
+    {
+      "name": "Heliogen Blog",
+      "url": "https://heliogen.com/blog/",
+      "focus": "Concentrated solar power",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "CleanTech & Energy",
+      "emoji": "🌿"
+    },
+    {
+      "name": "pv magazine",
+      "url": "https://pv-magazine-usa.com/",
+      "focus": "Solar energy industry news",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "CleanTech & Energy",
+      "emoji": "🌿"
+    },
+    {
+      "name": "Siemens Energy",
+      "url": "https://www.siemens-energy.com/global/en/home/publications.html",
+      "focus": "Energy technology and grid",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "CleanTech & Energy",
+      "emoji": "🌿"
+    },
+    {
+      "name": "Solar Power World",
+      "url": "https://www.solarpowerworldonline.com/",
+      "focus": "Solar energy industry news and technology",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "CleanTech & Energy",
+      "emoji": "🌿"
+    },
+    {
+      "name": "Tesla Energy Blog",
+      "url": "https://www.tesla.com/energy",
+      "focus": "Solar and battery storage",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "CleanTech & Energy",
+      "emoji": "🌿"
+    },
+    {
+      "name": "The Energy Gang",
+      "url": "https://www.greentechmedia.com/podcast",
+      "focus": "Clean energy and sustainability podcast",
+      "type": "Podcast",
+      "tier": "Niche",
+      "vertical": "CleanTech & Energy",
+      "emoji": "🌿"
+    },
+    {
+      "name": "Utility Dive",
+      "url": "https://www.utilitydive.com/",
+      "focus": "Utilities and grid transformation",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "CleanTech & Energy",
+      "emoji": "🌿"
+    },
+    {
+      "name": "Analytics Vidhya",
+      "url": "https://www.analyticsvidhya.com/",
+      "focus": "Data science community",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Data Science & Analytics",
+      "emoji": "📊"
+    },
+    {
+      "name": "Apache Flink Blog",
+      "url": "https://flink.apache.org/blog/",
+      "focus": "Stream processing framework",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Data Science & Analytics",
+      "emoji": "📊"
+    },
+    {
+      "name": "Data Elixir",
+      "url": "https://dataelixir.com/",
+      "focus": "Weekly data science newsletter",
+      "type": "Newsletter",
+      "tier": "Primary",
+      "vertical": "Data Science & Analytics",
+      "emoji": "📊"
+    },
+    {
+      "name": "Data Engineering Podcast",
+      "url": "https://dataengineeringpodcast.com/",
+      "focus": "Data infrastructure, pipelines, and engineering",
+      "type": "Podcast",
+      "tier": "Niche",
+      "vertical": "Data Science & Analytics",
+      "emoji": "📊"
+    },
+    {
+      "name": "Data Framed",
+      "url": "https://www.datacamp.com/podcast",
+      "focus": "Data science interviews and industry insights",
+      "type": "Podcast",
+      "tier": "Niche",
+      "vertical": "Data Science & Analytics",
+      "emoji": "📊"
+    },
+    {
+      "name": "Data Skeptic",
+      "url": "https://www.dataskeptic.com/",
+      "focus": "Data science podcast",
+      "type": "Podcast",
+      "tier": "Niche",
+      "vertical": "Data Science & Analytics",
+      "emoji": "📊"
+    },
+    {
+      "name": "DataBricks Blog",
+      "url": "https://www.databricks.com/blog",
+      "focus": "Data lakes and AI platforms",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Data Science & Analytics",
+      "emoji": "📊"
+    },
+    {
+      "name": "dbt Blog",
+      "url": "https://www.getdbt.com/blog/",
+      "focus": "Analytics engineering",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Data Science & Analytics",
+      "emoji": "📊"
+    },
+    {
+      "name": "Fast Forward Labs",
+      "url": "https://ff12.fastforwardlabs.com/",
+      "focus": "Applied ML research",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Data Science & Analytics",
+      "emoji": "📊"
+    },
+    {
+      "name": "Fivetran Blog",
+      "url": "https://www.fivetran.com/blog",
+      "focus": "Data integration and pipelines",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Data Science & Analytics",
+      "emoji": "📊"
+    },
+    {
+      "name": "Kaggle Blog",
+      "url": "https://www.kaggle.com/blog",
+      "focus": "Data science competitions",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Data Science & Analytics",
+      "emoji": "📊"
+    },
+    {
+      "name": "KDnuggets",
+      "url": "https://www.kdnuggets.com/",
+      "focus": "Data science learning and news",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Data Science & Analytics",
+      "emoji": "📊"
+    },
+    {
+      "name": "Mode Analytics Blog",
+      "url": "https://mode.com/blog/",
+      "focus": "Data analysis and visualization",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Data Science & Analytics",
+      "emoji": "📊"
+    },
+    {
+      "name": "Neptune AI Blog",
+      "url": "https://neptune.ai/blog",
+      "focus": "ML experiment tracking",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Data Science & Analytics",
+      "emoji": "📊"
+    },
+    {
+      "name": "O'Reilly Data",
+      "url": "https://www.oreilly.com/data/",
+      "focus": "Data tech and trends",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Data Science & Analytics",
+      "emoji": "📊"
+    },
+    {
+      "name": "Towards Data Science",
+      "url": "https://towardsdatascience.com/",
+      "focus": "Data science tutorials and insights",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Data Science & Analytics",
+      "emoji": "📊"
+    },
+    {
+      "name": "Arrested DevOps",
+      "url": "https://www.arresteddevops.com/",
+      "focus": "DevOps culture podcast",
+      "type": "Podcast",
+      "tier": "Primary",
+      "vertical": "DevOps & SRE",
+      "emoji": "🔄"
+    },
+    {
+      "name": "Cilium Blog",
+      "url": "https://cilium.io/blog/",
+      "focus": "eBPF networking and security",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "DevOps & SRE",
+      "emoji": "🔄"
+    },
+    {
+      "name": "DevOps Weekly",
+      "url": "https://www.devopsweekly.com/",
+      "focus": "Weekly DevOps roundup",
+      "type": "Newsletter",
+      "tier": "Primary",
+      "vertical": "DevOps & SRE",
+      "emoji": "🔄"
+    },
+    {
+      "name": "DevOps.com",
+      "url": "https://devops.com/",
+      "focus": "DevOps practices and culture",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "DevOps & SRE",
+      "emoji": "🔄"
+    },
+    {
+      "name": "Docker Blog",
+      "url": "https://www.docker.com/blog/",
+      "focus": "Container platform updates",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "DevOps & SRE",
+      "emoji": "🔄"
+    },
+    {
+      "name": "GitLab Blog",
+      "url": "https://about.gitlab.com/blog/",
+      "focus": "DevOps lifecycle platform",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "DevOps & SRE",
+      "emoji": "🔄"
+    },
+    {
+      "name": "Gremlin Blog",
+      "url": "https://www.gremlin.com/blog",
+      "focus": "Chaos engineering",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "DevOps & SRE",
+      "emoji": "🔄"
+    },
+    {
+      "name": "HashiCorp Blog",
+      "url": "https://www.hashicorp.com/blog",
+      "focus": "Infrastructure and security tools",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "DevOps & SRE",
+      "emoji": "🔄"
+    },
+    {
+      "name": "Incident.io Blog",
+      "url": "https://incident.io/blog",
+      "focus": "Incident management best practices",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "DevOps & SRE",
+      "emoji": "🔄"
+    },
+    {
+      "name": "Istio Blog",
+      "url": "https://istio.io/blog/",
+      "focus": "Service mesh updates",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "DevOps & SRE",
+      "emoji": "🔄"
+    },
+    {
+      "name": "Kubewarden Blog",
+      "url": "https://www.kubewarden.io/blog/",
+      "focus": "Kubernetes policy engine",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "DevOps & SRE",
+      "emoji": "🔄"
+    },
+    {
+      "name": "PagerDuty Blog",
+      "url": "https://www.pagerduty.com/blog/",
+      "focus": "Incident management",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "DevOps & SRE",
+      "emoji": "🔄"
+    },
+    {
+      "name": "Rootly Blog",
+      "url": "https://rootly.com/blog",
+      "focus": "Incident response automation",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "DevOps & SRE",
+      "emoji": "🔄"
+    },
+    {
+      "name": "Screaming in the Cloud Podcast",
+      "url": "https://www.lastweekinaws.com/podcast/screaming-in-the-cloud/",
+      "focus": "Cloud infrastructure and DevOps discussions",
+      "type": "Podcast",
+      "tier": "Niche",
+      "vertical": "DevOps & SRE",
+      "emoji": "🔄"
+    },
+    {
+      "name": "SRE Weekly",
+      "url": "https://sreweekly.com/",
+      "focus": "Site reliability news",
+      "type": "Newsletter",
+      "tier": "Primary",
+      "vertical": "DevOps & SRE",
+      "emoji": "🔄"
+    },
+    {
+      "name": "Tetrate Blog",
+      "url": "https://tetrate.io/blog/",
+      "focus": "Service mesh and API gateway",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "DevOps & SRE",
+      "emoji": "🔄"
+    },
+    {
+      "name": "The New Stack",
+      "url": "https://thenewstack.io/category/devops/",
+      "focus": "Cloud native and DevOps",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "DevOps & SRE",
+      "emoji": "🔄"
+    },
+    {
+      "name": "Alice & Bob",
+      "url": "https://alice-bob.com/blog/",
+      "focus": "Cat qubit quantum computing",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Quantum Computing",
+      "emoji": "⚛️"
+    },
+    {
+      "name": "D-Wave Blog",
+      "url": "https://www.dwavequantum.com/company/newsroom/",
+      "focus": "Quantum annealing systems",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Quantum Computing",
+      "emoji": "⚛️"
+    },
+    {
+      "name": "Google Quantum AI",
+      "url": "https://quantumai.google/",
+      "focus": "Google quantum research",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Quantum Computing",
+      "emoji": "⚛️"
+    },
+    {
+      "name": "IBM Quantum Blog",
+      "url": "https://www.ibm.com/quantum/blog",
+      "focus": "IBM quantum computing updates",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Quantum Computing",
+      "emoji": "⚛️"
+    },
+    {
+      "name": "Inside Quantum Technology",
+      "url": "https://insidequantumtechnology.com/",
+      "focus": "Quantum computing market",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Quantum Computing",
+      "emoji": "⚛️"
+    },
+    {
+      "name": "IonQ Blog",
+      "url": "https://ionq.com/blog",
+      "focus": "Trapped ion quantum computing",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Quantum Computing",
+      "emoji": "⚛️"
+    },
+    {
+      "name": "Nature Quantum Info",
+      "url": "https://www.nature.com/subjects/quantum-information",
+      "focus": "Quantum research publications",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Quantum Computing",
+      "emoji": "⚛️"
+    },
+    {
+      "name": "PsiQuantum Blog",
+      "url": "https://www.psiquantum.com/blog",
+      "focus": "Photonic quantum computing",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Quantum Computing",
+      "emoji": "⚛️"
+    },
+    {
+      "name": "Quanta Magazine",
+      "url": "https://www.quantamagazine.org/tag/quantum-computing/",
+      "focus": "Quantum physics and computing",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Quantum Computing",
+      "emoji": "⚛️"
+    },
+    {
+      "name": "Quantinuum Blog",
+      "url": "https://www.quantinuum.com/news/blog",
+      "focus": "Trapped ion quantum computing",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Quantum Computing",
+      "emoji": "⚛️"
+    },
+    {
+      "name": "Quantum Computing Now",
+      "url": "https://quantumcomputingnow.com/",
+      "focus": "Quantum computing industry and research updates",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Quantum Computing",
+      "emoji": "⚛️"
+    },
+    {
+      "name": "Quantum Computing Report",
+      "url": "https://quantumcomputingreport.com/",
+      "focus": "Quantum computing industry analysis and news",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Quantum Computing",
+      "emoji": "⚛️"
+    },
+    {
+      "name": "Quantum Zeitgeist",
+      "url": "https://quantumzeitgeist.com/",
+      "focus": "Quantum news and features",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Quantum Computing",
+      "emoji": "⚛️"
+    },
+    {
+      "name": "Rigetti Blog",
+      "url": "https://www.rigetti.com/rigetti-computing-news",
+      "focus": "Quantum hardware and software",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Quantum Computing",
+      "emoji": "⚛️"
+    },
+    {
+      "name": "The Quantum Daily",
+      "url": "https://thequantumdaily.com/",
+      "focus": "Daily quantum computing news and research",
+      "type": "Newsletter",
+      "tier": "Niche",
+      "vertical": "Quantum Computing",
+      "emoji": "⚛️"
+    },
+    {
+      "name": "The Quantum Insider",
+      "url": "https://thequantuminsider.com/",
+      "focus": "Quantum industry news",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Quantum Computing",
+      "emoji": "⚛️"
+    },
+    {
+      "name": "Xanadu Blog",
+      "url": "https://xanadu.ai/blog/",
+      "focus": "Photonic quantum computing",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Quantum Computing",
+      "emoji": "⚛️"
+    },
+    {
+      "name": "ABB Robotics",
+      "url": "https://new.abb.com/products/robotics",
+      "focus": "Industrial robot systems",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Robotics & Automation",
+      "emoji": "🤖"
+    },
+    {
+      "name": "Agility Robotics Blog",
+      "url": "https://agilityrobotics.com/news",
+      "focus": "Humanoid robot development",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Robotics & Automation",
+      "emoji": "🤖"
+    },
+    {
+      "name": "Autonomous Vehicle News",
+      "url": "https://www.tu-auto.com/",
+      "focus": "Autonomous driving news",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Robotics & Automation",
+      "emoji": "🤖"
+    },
+    {
+      "name": "Boston Dynamics Blog",
+      "url": "https://blog.bostondynamics.com/",
+      "focus": "Legendary robotics engineering",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Robotics & Automation",
+      "emoji": "🤖"
+    },
+    {
+      "name": "Figure AI Blog",
+      "url": "https://www.figure.ai/news",
+      "focus": "General-purpose humanoid robots",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Robotics & Automation",
+      "emoji": "🤖"
+    },
+    {
+      "name": "IEEE Spectrum Robotics",
+      "url": "https://spectrum.ieee.org/topic/robotics/",
+      "focus": "Robotics research and news",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Robotics & Automation",
+      "emoji": "🤖"
+    },
+    {
+      "name": "Intuitive Surgical Blog",
+      "url": "https://www.intuitive.com/en-us/about-us/news",
+      "focus": "Surgical robotics",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Robotics & Automation",
+      "emoji": "🤖"
+    },
+    {
+      "name": "PickNik Robotics",
+      "url": "https://picknik.ai/blog/",
+      "focus": "Robot manipulation and MoveIt",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Robotics & Automation",
+      "emoji": "🤖"
+    },
+    {
+      "name": "RoboDaily",
+      "url": "https://www.robodaily.com/",
+      "focus": "Robotics research and development news",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Robotics & Automation",
+      "emoji": "🤖"
+    },
+    {
+      "name": "Robohub",
+      "url": "https://robohub.org/",
+      "focus": "Robotics news and discussion",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Robotics & Automation",
+      "emoji": "🤖"
+    },
+    {
+      "name": "Robot Talk Podcast",
+      "url": "https://www.robottalk.org/",
+      "focus": "Robotics research and innovation",
+      "type": "Podcast",
+      "tier": "Niche",
+      "vertical": "Robotics & Automation",
+      "emoji": "🤖"
+    },
+    {
+      "name": "Robotics 24/7",
+      "url": "https://www.robotics247.com/",
+      "focus": "Robotics technology and industry applications",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Robotics & Automation",
+      "emoji": "🤖"
+    },
+    {
+      "name": "Robotics Business Review",
+      "url": "https://www.roboticsbusinessreview.com/",
+      "focus": "Robotics market analysis",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Robotics & Automation",
+      "emoji": "🤖"
+    },
+    {
+      "name": "Silicon Valley Robotics",
+      "url": "https://siliconvalleyrobotics.com/",
+      "focus": "Robotics ecosystem and industry news",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Robotics & Automation",
+      "emoji": "🤖"
+    },
+    {
+      "name": "Tesla Optimus Blog",
+      "url": "https://www.tesla.com/optimus",
+      "focus": "Humanoid robot development",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Robotics & Automation",
+      "emoji": "🤖"
+    },
+    {
+      "name": "The Robot Report",
+      "url": "https://www.therobotreport.com/",
+      "focus": "Robotics industry and business",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Robotics & Automation",
+      "emoji": "🤖"
+    },
+    {
+      "name": "Universal Robots Blog",
+      "url": "https://www.universal-robots.com/blog/",
+      "focus": "Collaborative robot arms",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Robotics & Automation",
+      "emoji": "🤖"
+    },
+    {
+      "name": "Waypoint Robotics",
+      "url": "https://locusrobotics.com/blog",
+      "focus": "Autonomous mobile robots",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Robotics & Automation",
+      "emoji": "🤖"
+    },
+    {
+      "name": "AMD Blog",
+      "url": "https://community.amd.com/",
+      "focus": "AMD product news",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Semiconductors & Hardware",
+      "emoji": "🔬"
+    },
+    {
+      "name": "AnandTech",
+      "url": "https://www.anandtech.com/",
+      "focus": "CPU/GPU deep-dives",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Semiconductors & Hardware",
+      "emoji": "🔬"
+    },
+    {
+      "name": "Apple Silicon",
+      "url": "https://www.apple.com/mac/",
+      "focus": "Apple chip developments",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Semiconductors & Hardware",
+      "emoji": "🔬"
+    },
+    {
+      "name": "ARM Blog",
+      "url": "https://www.arm.com/blogs",
+      "focus": "Chip architecture licensing",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Semiconductors & Hardware",
+      "emoji": "🔬"
+    },
+    {
+      "name": "ASML Blog",
+      "url": "https://www.asml.com/en/news",
+      "focus": "Lithography and chip manufacturing",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Semiconductors & Hardware",
+      "emoji": "🔬"
+    },
+    {
+      "name": "Chips and Cheese",
+      "url": "https://chipsandcheese.com/",
+      "focus": "Deep CPU architecture analysis",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Semiconductors & Hardware",
+      "emoji": "🔬"
+    },
+    {
+      "name": "Electronics Weekly",
+      "url": "https://www.electronicsweekly.com/",
+      "focus": "Electronics industry and semiconductor news",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Semiconductors & Hardware",
+      "emoji": "🔬"
+    },
+    {
+      "name": "ExtremeTech",
+      "url": "https://www.extremetech.com/",
+      "focus": "Hardware and science news",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Semiconductors & Hardware",
+      "emoji": "🔬"
+    },
+    {
+      "name": "Intel Blog",
+      "url": "https://www.intel.com/content/www/us/en/newsroom/",
+      "focus": "Intel official announcements",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Semiconductors & Hardware",
+      "emoji": "🔬"
+    },
+    {
+      "name": "Micron Blog",
+      "url": "https://www.micron.com/blog",
+      "focus": "Memory and storage",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Semiconductors & Hardware",
+      "emoji": "🔬"
+    },
+    {
+      "name": "NVIDIA Blog",
+      "url": "https://blogs.nvidia.com/",
+      "focus": "GPU and AI technology",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Semiconductors & Hardware",
+      "emoji": "🔬"
+    },
+    {
+      "name": "Qualcomm OnQ",
+      "url": "https://www.qualcomm.com/news/onq",
+      "focus": "Mobile chipset innovation",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Semiconductors & Hardware",
+      "emoji": "🔬"
+    },
+    {
+      "name": "RISC-V Blog",
+      "url": "https://riscv.org/blog/",
+      "focus": "Open ISA ecosystem",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Semiconductors & Hardware",
+      "emoji": "🔬"
+    },
+    {
+      "name": "Samsung Semiconductor",
+      "url": "https://semiconductor.samsung.com/newsroom/",
+      "focus": "Memory and chip news",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Semiconductors & Hardware",
+      "emoji": "🔬"
+    },
+    {
+      "name": "Semiconductor Today",
+      "url": "https://www.semiconductor-today.com/",
+      "focus": "Compound semiconductor industry news",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Semiconductors & Hardware",
+      "emoji": "🔬"
+    },
+    {
+      "name": "SemiEngineering",
+      "url": "https://semiengineering.com/",
+      "focus": "Semiconductor design and manufacturing",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Semiconductors & Hardware",
+      "emoji": "🔬"
+    },
+    {
+      "name": "The Hardware Podcast",
+      "url": "https://thehardwarepodcast.com/",
+      "focus": "Hardware engineering and semiconductor design",
+      "type": "Podcast",
+      "tier": "Niche",
+      "vertical": "Semiconductors & Hardware",
+      "emoji": "🔬"
+    },
+    {
+      "name": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/",
+      "focus": "PC hardware reviews",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Semiconductors & Hardware",
+      "emoji": "🔬"
+    },
+    {
+      "name": "5G Guys Podcast",
+      "url": "https://5gguys.com/",
+      "focus": "5G technology and telecommunications",
+      "type": "Podcast",
+      "tier": "Niche",
+      "vertical": "Telecommunications & 5G",
+      "emoji": "📡"
+    },
+    {
+      "name": "5G Tech News",
+      "url": "https://www.5gtechnologyworld.com/",
+      "focus": "5G telecommunications news and developments",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Telecommunications & 5G",
+      "emoji": "📡"
+    },
+    {
+      "name": "AT&T News",
+      "url": "https://about.att.com/newsroom",
+      "focus": "Telecom innovation",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Telecommunications & 5G",
+      "emoji": "📡"
+    },
+    {
+      "name": "Cisco Blog",
+      "url": "https://blogs.cisco.com/",
+      "focus": "Networking and telecom",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Telecommunications & 5G",
+      "emoji": "📡"
+    },
+    {
+      "name": "Ericsson Blog",
+      "url": "https://www.ericsson.com/en/blog",
+      "focus": "Network infrastructure",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Telecommunications & 5G",
+      "emoji": "📡"
+    },
+    {
+      "name": "Fierce Network",
+      "url": "https://www.fierce-network.com/",
+      "focus": "Telecom industry news",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Telecommunications & 5G",
+      "emoji": "📡"
+    },
+    {
+      "name": "Light Reading",
+      "url": "https://www.lightreading.com/",
+      "focus": "Communications technology news",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Telecommunications & 5G",
+      "emoji": "📡"
+    },
+    {
+      "name": "Nokia Networks Blog",
+      "url": "https://www.nokia.com/blog/",
+      "focus": "Telecom equipment and 5G",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Telecommunications & 5G",
+      "emoji": "📡"
+    },
+    {
+      "name": "Qualcomm Blog",
+      "url": "https://www.qualcomm.com/news",
+      "focus": "Mobile connectivity innovations",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Telecommunications & 5G",
+      "emoji": "📡"
+    },
+    {
+      "name": "RCR Wireless",
+      "url": "https://www.rcrwireless.com/",
+      "focus": "Wireless industry news",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Telecommunications & 5G",
+      "emoji": "📡"
+    },
+    {
+      "name": "SDxCentral",
+      "url": "https://www.sdxcentral.com/",
+      "focus": "SDN, NFV and telecom",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Telecommunications & 5G",
+      "emoji": "📡"
+    },
+    {
+      "name": "Starlink Updates",
+      "url": "https://www.starlink.com/news",
+      "focus": "Satellite internet news",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Telecommunications & 5G",
+      "emoji": "📡"
+    },
+    {
+      "name": "T-Mobile Newsroom",
+      "url": "https://www.t-mobile.com/news",
+      "focus": "US carrier developments",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Telecommunications & 5G",
+      "emoji": "📡"
+    },
+    {
+      "name": "Telecom Analysis",
+      "url": "https://telecomanalysis.net/",
+      "focus": "In-depth telecom regulations, market shifts, and tech breakthroughs",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Telecommunications & 5G",
+      "emoji": "📡"
+    },
+    {
+      "name": "Telecom TV",
+      "url": "https://www.telecomtv.com/",
+      "focus": "Telecom video news and analysis",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Telecommunications & 5G",
+      "emoji": "📡"
+    },
+    {
+      "name": "TeleGeography Blog",
+      "url": "https://blog.telegeography.com/",
+      "focus": "Submarine cable and bandwidth",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Telecommunications & 5G",
+      "emoji": "📡"
+    },
+    {
+      "name": "Verizon News",
+      "url": "https://www.verizon.com/about/news",
+      "focus": "US telecom and 5G",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Telecommunications & 5G",
+      "emoji": "📡"
+    },
+    {
+      "name": "Autoblog",
+      "url": "https://www.autoblog.com/",
+      "focus": "Consumer car news",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Automotive Tech & EVs",
+      "emoji": "🚗"
+    },
+    {
+      "name": "Car and Driver",
+      "url": "https://www.caranddriver.com/",
+      "focus": "Automotive reviews and features",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Automotive Tech & EVs",
+      "emoji": "🚗"
+    },
+    {
+      "name": "Cruise Blog",
+      "url": "https://www.getcruise.com/news/",
+      "focus": "Self-driving technology",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Automotive Tech & EVs",
+      "emoji": "🚗"
+    },
+    {
+      "name": "Electrek",
+      "url": "https://electrek.co/",
+      "focus": "EV and sustainable transport",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Automotive Tech & EVs",
+      "emoji": "🚗"
+    },
+    {
+      "name": "Fisker Blog",
+      "url": "https://www.fiskerinc.com/blog",
+      "focus": "Sustainable EV design",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Automotive Tech & EVs",
+      "emoji": "🚗"
+    },
+    {
+      "name": "InsideEVs",
+      "url": "https://insideevs.com/",
+      "focus": "Electric vehicle news",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Automotive Tech & EVs",
+      "emoji": "🚗"
+    },
+    {
+      "name": "Lucid Blog",
+      "url": "https://lucidmotors.com/tech-talks",
+      "focus": "Luxury EV technology",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Automotive Tech & EVs",
+      "emoji": "🚗"
+    },
+    {
+      "name": "NIO Blog",
+      "url": "https://www.nio.com/news",
+      "focus": "Chinese EV innovation",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Automotive Tech & EVs",
+      "emoji": "🚗"
+    },
+    {
+      "name": "Pony.ai Blog",
+      "url": "https://pony.ai/press?lang=en",
+      "focus": "Autonomous driving in China/US",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Automotive Tech & EVs",
+      "emoji": "🚗"
+    },
+    {
+      "name": "Rivian Blog",
+      "url": "https://rivian.com/newsroom",
+      "focus": "Electric adventure vehicle news",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Automotive Tech & EVs",
+      "emoji": "🚗"
+    },
+    {
+      "name": "Rivian Stories",
+      "url": "https://stories.rivian.com/",
+      "focus": "Electric adventure vehicles",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Automotive Tech & EVs",
+      "emoji": "🚗"
+    },
+    {
+      "name": "TechCrunch Mobility",
+      "url": "https://techcrunch.com/category/transportation/",
+      "focus": "Transportation technology",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Automotive Tech & EVs",
+      "emoji": "🚗"
+    },
+    {
+      "name": "Tesla Blog",
+      "url": "https://www.tesla.com/blog",
+      "focus": "Official Tesla updates",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Automotive Tech & EVs",
+      "emoji": "🚗"
+    },
+    {
+      "name": "The Drive",
+      "url": "https://www.thedrive.com/",
+      "focus": "Automotive culture and tech",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Automotive Tech & EVs",
+      "emoji": "🚗"
+    },
+    {
+      "name": "The EV Musings Podcast",
+      "url": "https://www.evmusings.com/",
+      "focus": "Electric vehicle industry and technology",
+      "type": "Podcast",
+      "tier": "Niche",
+      "vertical": "Automotive Tech & EVs",
+      "emoji": "🚗"
+    },
+    {
+      "name": "Waymo Blog",
+      "url": "https://waymo.com/blog/",
+      "focus": "Autonomous driving leader",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Automotive Tech & EVs",
+      "emoji": "🚗"
+    },
+    {
+      "name": "Zoox Blog",
+      "url": "https://zoox.com/journal",
+      "focus": "Autonomous ride-hailing",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Automotive Tech & EVs",
+      "emoji": "🚗"
+    },
+    {
+      "name": "Brilliant Blog",
+      "url": "https://brilliant.org/courses/",
+      "focus": "Interactive STEM learning",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "EdTech",
+      "emoji": "🎓"
+    },
+    {
+      "name": "Campus Technology",
+      "url": "https://campustechnology.com/",
+      "focus": "College tech infrastructure",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "EdTech",
+      "emoji": "🎓"
+    },
+    {
+      "name": "Class Central",
+      "url": "https://www.classcentral.com/",
+      "focus": "MOOCs and online courses",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "EdTech",
+      "emoji": "🎓"
+    },
+    {
+      "name": "Codecademy Blog",
+      "url": "https://codecademy.com/blog",
+      "focus": "Learn to code online",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "EdTech",
+      "emoji": "🎓"
+    },
+    {
+      "name": "Coursera Blog",
+      "url": "https://blog.coursera.org/",
+      "focus": "Online learning updates",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "EdTech",
+      "emoji": "🎓"
+    },
+    {
+      "name": "Duolingo Blog",
+      "url": "https://blog.duolingo.com/",
+      "focus": "Language learning tech",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "EdTech",
+      "emoji": "🎓"
+    },
+    {
+      "name": "EdSurge",
+      "url": "https://www.edsurge.com/",
+      "focus": "Education technology news",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "EdTech",
+      "emoji": "🎓"
+    },
+    {
+      "name": "EdTech Magazine",
+      "url": "https://edtechmagazine.com/",
+      "focus": "Higher ed IT and innovation",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "EdTech",
+      "emoji": "🎓"
+    },
+    {
+      "name": "EdTech Podcast",
+      "url": "https://www.theedtechpodcast.com/",
+      "focus": "Education technology news and interviews",
+      "type": "Podcast",
+      "tier": "Niche",
+      "vertical": "EdTech",
+      "emoji": "🎓"
+    },
+    {
+      "name": "Forbes Education",
+      "url": "https://www.forbes.com/education/",
+      "focus": "Education business and tech",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "EdTech",
+      "emoji": "🎓"
+    },
+    {
+      "name": "Khan Academy Blog",
+      "url": "https://blog.khanacademy.org/",
+      "focus": "Free education platform",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "EdTech",
+      "emoji": "🎓"
+    },
+    {
+      "name": "MasterClass Blog",
+      "url": "https://masterclass.com/blog",
+      "focus": "Expert-led online learning",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "EdTech",
+      "emoji": "🎓"
+    },
+    {
+      "name": "Quizlet Blog",
+      "url": "https://quizlet.com/blog",
+      "focus": "AI-powered study tools",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "EdTech",
+      "emoji": "🎓"
+    },
+    {
+      "name": "The Report by Superhuman",
+      "url": "https://blog.superhuman.com/",
+      "focus": "EdTech and future of learning",
+      "type": "Newsletter",
+      "tier": "Niche",
+      "vertical": "EdTech",
+      "emoji": "🎓"
+    },
+    {
+      "name": "The Tech Edvocate",
+      "url": "https://www.thetechedvocate.org/",
+      "focus": "EdTech advocacy and news",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "EdTech",
+      "emoji": "🎓"
+    },
+    {
+      "name": "Udacity Blog",
+      "url": "https://blog.udacity.com/",
+      "focus": "Tech skills and nanodegrees",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "EdTech",
+      "emoji": "🎓"
+    },
+    {
+      "name": "ABA Journal Tech",
+      "url": "https://www.abajournal.com/topic/technology",
+      "focus": "American Bar tech coverage",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "InsurTech & LegalTech",
+      "emoji": "⚖️"
+    },
+    {
+      "name": "Artificial Lawyer",
+      "url": "https://www.artificiallawyer.com/",
+      "focus": "AI in legal industry",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "InsurTech & LegalTech",
+      "emoji": "⚖️"
+    },
+    {
+      "name": "Clio Blog",
+      "url": "https://www.clio.com/blog/",
+      "focus": "Legal practice management",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "InsurTech & LegalTech",
+      "emoji": "⚖️"
+    },
+    {
+      "name": "Coterie Insurance Blog",
+      "url": "https://www.coterieinsurance.com/blog",
+      "focus": "Small business insurance tech",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "InsurTech & LegalTech",
+      "emoji": "⚖️"
+    },
+    {
+      "name": "Digital Insurance",
+      "url": "https://www.dig-in.com/",
+      "focus": "Insurance industry tech",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "InsurTech & LegalTech",
+      "emoji": "⚖️"
+    },
+    {
+      "name": "Docket Alarm Blog",
+      "url": "https://www.docketalarm.com/blog/",
+      "focus": "Federal litigation analytics",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "InsurTech & LegalTech",
+      "emoji": "⚖️"
+    },
+    {
+      "name": "Guidewire Blog",
+      "url": "https://www.guidewire.com/blog/",
+      "focus": "Insurance core systems",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "InsurTech & LegalTech",
+      "emoji": "⚖️"
+    },
+    {
+      "name": "InsurTech Digital",
+      "url": "https://insurtechdigital.com/",
+      "focus": "Insurance innovation",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "InsurTech & LegalTech",
+      "emoji": "⚖️"
+    },
+    {
+      "name": "InsurTechNews",
+      "url": "https://insurtechnews.com/",
+      "focus": "Insurance technology news",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "InsurTech & LegalTech",
+      "emoji": "⚖️"
+    },
+    {
+      "name": "Ironclad Blog",
+      "url": "https://ironcladapp.com/blog/",
+      "focus": "Contract lifecycle management",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "InsurTech & LegalTech",
+      "emoji": "⚖️"
+    },
+    {
+      "name": "Law Technology Today",
+      "url": "https://www.lawtechnologytoday.org/",
+      "focus": "Legal tech innovation",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "InsurTech & LegalTech",
+      "emoji": "⚖️"
+    },
+    {
+      "name": "LegalTech Weekly",
+      "url": "https://www.legaltechweek.com/",
+      "focus": "Legal technology news and innovation",
+      "type": "Newsletter",
+      "tier": "Niche",
+      "vertical": "InsurTech & LegalTech",
+      "emoji": "⚖️"
+    },
+    {
+      "name": "Lemonade Blog",
+      "url": "https://blog.lemonade.com/",
+      "focus": "Insurtech disruption",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "InsurTech & LegalTech",
+      "emoji": "⚖️"
+    },
+    {
+      "name": "Root Insurance Blog",
+      "url": "https://www.root.com/blog/",
+      "focus": "Usage-based insurance tech",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "InsurTech & LegalTech",
+      "emoji": "⚖️"
+    },
+    {
+      "name": "The InsurTech Weekly",
+      "url": "https://insurtechweekly.substack.com/",
+      "focus": "Insurance technology news and trends",
+      "type": "Newsletter",
+      "tier": "Primary",
+      "vertical": "InsurTech & LegalTech",
+      "emoji": "⚖️"
+    },
+    {
+      "name": "BambooHR Blog",
+      "url": "https://www.bamboohr.com/blog",
+      "focus": "HR software for SMBs",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "HRTech & Future of Work",
+      "emoji": "👥"
+    },
+    {
+      "name": "Culture Amp Blog",
+      "url": "https://www.cultureamp.com/blog",
+      "focus": "Employee engagement analytics",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "HRTech & Future of Work",
+      "emoji": "👥"
+    },
+    {
+      "name": "Deel Blog",
+      "url": "https://www.deel.com/blog",
+      "focus": "Global hiring and compliance",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "HRTech & Future of Work",
+      "emoji": "👥"
+    },
+    {
+      "name": "Fellow Blog",
+      "url": "https://fellow.app/blog/",
+      "focus": "Meeting productivity and coaching",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "HRTech & Future of Work",
+      "emoji": "👥"
+    },
+    {
+      "name": "Gloat Blog",
+      "url": "https://gloat.com/blog/",
+      "focus": "Internal talent marketplace",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "HRTech & Future of Work",
+      "emoji": "👥"
+    },
+    {
+      "name": "Gusto Blog",
+      "url": "https://gusto.com/blog",
+      "focus": "Payroll and benefits tech",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "HRTech & Future of Work",
+      "emoji": "👥"
+    },
+    {
+      "name": "HR Dive",
+      "url": "https://www.hrdive.com/",
+      "focus": "HR industry news",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "HRTech & Future of Work",
+      "emoji": "👥"
+    },
+    {
+      "name": "HR Morning",
+      "url": "https://www.hrmorning.com/",
+      "focus": "Daily HR news",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "HRTech & Future of Work",
+      "emoji": "👥"
+    },
+    {
+      "name": "HR Tech Weekly",
+      "url": "https://www.hrtechweekly.com/",
+      "focus": "HR technology insights",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "HRTech & Future of Work",
+      "emoji": "👥"
+    },
+    {
+      "name": "Lattice Blog",
+      "url": "https://lattice.com/blog",
+      "focus": "Performance management",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "HRTech & Future of Work",
+      "emoji": "👥"
+    },
+    {
+      "name": "LinkedIn Talent Blog",
+      "url": "https://business.linkedin.com/talent-solutions/blog",
+      "focus": "Talent acquisition tech",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "HRTech & Future of Work",
+      "emoji": "👥"
+    },
+    {
+      "name": "Remote Blog",
+      "url": "https://remote.com/blog",
+      "focus": "Global HR and compliance",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "HRTech & Future of Work",
+      "emoji": "👥"
+    },
+    {
+      "name": "Remote Work Hub",
+      "url": "https://www.remotehub.com/blog",
+      "focus": "Remote work technology",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "HRTech & Future of Work",
+      "emoji": "👥"
+    },
+    {
+      "name": "Rippling Blog",
+      "url": "https://www.rippling.com/blog",
+      "focus": "HR, IT, and finance platform",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "HRTech & Future of Work",
+      "emoji": "👥"
+    },
+    {
+      "name": "WorkLife (Slack)",
+      "url": "https://slack.com/blog",
+      "focus": "Future of work insights",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "HRTech & Future of Work",
+      "emoji": "👥"
+    },
+    {
+      "name": "Compass Blog",
+      "url": "https://www.compass.com/blog/",
+      "focus": "Real estate technology platform",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "PropTech",
+      "emoji": "🏠"
+    },
+    {
+      "name": "CoStar News",
+      "url": "https://www.costar.com/article/",
+      "focus": "Commercial real estate",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "PropTech",
+      "emoji": "🏠"
+    },
+    {
+      "name": "GeekEstate",
+      "url": "https://geekestate.com/",
+      "focus": "Real estate tech blog",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "PropTech",
+      "emoji": "🏠"
+    },
+    {
+      "name": "Honeycomb Homes Blog",
+      "url": "https://honeycombhomes.com/blog",
+      "focus": "Real estate investment tech",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "PropTech",
+      "emoji": "🏠"
+    },
+    {
+      "name": "Knock Blog",
+      "url": "https://www.knock.com/blog",
+      "focus": "Home trade-in platform",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "PropTech",
+      "emoji": "🏠"
+    },
+    {
+      "name": "Matterport Blog",
+      "url": "https://matterport.com/blog",
+      "focus": "3D property scanning",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "PropTech",
+      "emoji": "🏠"
+    },
+    {
+      "name": "Opendoor Blog",
+      "url": "https://www.opendoor.com/blog",
+      "focus": "iBuying technology",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "PropTech",
+      "emoji": "🏠"
+    },
+    {
+      "name": "Propmodo",
+      "url": "https://www.propmodo.com/",
+      "focus": "Real estate technology",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "PropTech",
+      "emoji": "🏠"
+    },
+    {
+      "name": "PropTech Pulse",
+      "url": "https://www.proptechpulse.com/",
+      "focus": "Property technology news and interviews podcast",
+      "type": "Podcast",
+      "tier": "Niche",
+      "vertical": "PropTech",
+      "emoji": "🏠"
+    },
+    {
+      "name": "REAL Trends",
+      "url": "https://www.realtrends.com/",
+      "focus": "Real estate business news",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "PropTech",
+      "emoji": "🏠"
+    },
+    {
+      "name": "Redfin Blog",
+      "url": "https://www.redfin.com/blog",
+      "focus": "Real estate brokerage tech",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "PropTech",
+      "emoji": "🏠"
+    },
+    {
+      "name": "The Real Deal",
+      "url": "https://therealdeal.com/",
+      "focus": "Real estate news and analysis",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "PropTech",
+      "emoji": "🏠"
+    },
+    {
+      "name": "Zillow Research",
+      "url": "https://www.zillow.com/research/",
+      "focus": "Housing market data",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "PropTech",
+      "emoji": "🏠"
+    },
+    {
+      "name": "AgFunderNews",
+      "url": "https://agfundernews.com/",
+      "focus": "Agri-food tech news",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "FoodTech & AgriTech",
+      "emoji": "🌾"
+    },
+    {
+      "name": "Agri-TechE",
+      "url": "https://www.agri-tech-e.co.uk/",
+      "focus": "Agricultural technology innovation",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "FoodTech & AgriTech",
+      "emoji": "🌾"
+    },
+    {
+      "name": "ClimateAi Blog",
+      "url": "https://climate.ai/blog/",
+      "focus": "AI for agricultural resilience",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "FoodTech & AgriTech",
+      "emoji": "🌾"
+    },
+    {
+      "name": "CropLife",
+      "url": "https://www.croplife.com/",
+      "focus": "Crop technology and production",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "FoodTech & AgriTech",
+      "emoji": "🌾"
+    },
+    {
+      "name": "Food Navigator",
+      "url": "https://www.foodnavigator.com/",
+      "focus": "Food industry innovation",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "FoodTech & AgriTech",
+      "emoji": "🌾"
+    },
+    {
+      "name": "Food Tech Weekly",
+      "url": "https://www.foodtechweekly.com/",
+      "focus": "Weekly food technology news and trends",
+      "type": "Newsletter",
+      "tier": "Niche",
+      "vertical": "FoodTech & AgriTech",
+      "emoji": "🌾"
+    },
+    {
+      "name": "Future Farming",
+      "url": "https://www.futurefarming.com/",
+      "focus": "Precision agriculture",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "FoodTech & AgriTech",
+      "emoji": "🌾"
+    },
+    {
+      "name": "Future of Agriculture Podcast",
+      "url": "https://www.futureofagriculture.com/",
+      "focus": "Farming technology and agribusiness innovation",
+      "type": "Podcast",
+      "tier": "Niche",
+      "vertical": "FoodTech & AgriTech",
+      "emoji": "🌾"
+    },
+    {
+      "name": "Green Queen",
+      "url": "https://www.greenqueen.com.hk/",
+      "focus": "Alternative proteins and sustainable food tech",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "FoodTech & AgriTech",
+      "emoji": "🌾"
+    },
+    {
+      "name": "Impossible Foods Blog",
+      "url": "https://impossiblefoods.com/blog",
+      "focus": "Plant-based meat tech",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "FoodTech & AgriTech",
+      "emoji": "🌾"
+    },
+    {
+      "name": "Indigo Ag Blog",
+      "url": "https://www.indigoag.com/blog",
+      "focus": "Sustainable agriculture platform",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "FoodTech & AgriTech",
+      "emoji": "🌾"
+    },
+    {
+      "name": "Modern Farmer",
+      "url": "https://modernfarmer.com/",
+      "focus": "Farming, food, and agricultural innovation",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "FoodTech & AgriTech",
+      "emoji": "🌾"
+    },
+    {
+      "name": "New Food Magazine",
+      "url": "https://www.newfoodmagazine.com/",
+      "focus": "Food science, technology and innovation",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "FoodTech & AgriTech",
+      "emoji": "🌾"
+    },
+    {
+      "name": "The Spoon",
+      "url": "https://thespoon.tech/",
+      "focus": "Food tech and kitchen tech",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "FoodTech & AgriTech",
+      "emoji": "🌾"
+    },
+    {
+      "name": "vegconomist",
+      "url": "https://vegconomist.com/",
+      "focus": "Plant-based and alternative protein industry",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "FoodTech & AgriTech",
+      "emoji": "🌾"
+    },
+    {
+      "name": "ActiveCampaign Blog",
+      "url": "https://www.activecampaign.com/blog",
+      "focus": "Email marketing automation",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "MarTech & AdTech",
+      "emoji": "📈"
+    },
+    {
+      "name": "AdExchanger",
+      "url": "https://www.adexchanger.com/",
+      "focus": "Digital advertising technology",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "MarTech & AdTech",
+      "emoji": "📈"
+    },
+    {
+      "name": "Ahrefs Blog",
+      "url": "https://ahrefs.com/blog/",
+      "focus": "SEO and backlink analysis",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "MarTech & AdTech",
+      "emoji": "📈"
+    },
+    {
+      "name": "Digiday",
+      "url": "https://digiday.com/",
+      "focus": "Media and marketing industry",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "MarTech & AdTech",
+      "emoji": "📈"
+    },
+    {
+      "name": "HubSpot Blog",
+      "url": "https://blog.hubspot.com/",
+      "focus": "Inbound marketing and CRM",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "MarTech & AdTech",
+      "emoji": "📈"
+    },
+    {
+      "name": "Klaviyo Blog",
+      "url": "https://klaviyo.com/blog",
+      "focus": "E-commerce marketing",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "MarTech & AdTech",
+      "emoji": "📈"
+    },
+    {
+      "name": "Marketing Brew",
+      "url": "https://www.morningbrew.com/marketing",
+      "focus": "Daily marketing news",
+      "type": "Newsletter",
+      "tier": "Primary",
+      "vertical": "MarTech & AdTech",
+      "emoji": "📈"
+    },
+    {
+      "name": "MarTech.org",
+      "url": "https://martech.org/",
+      "focus": "Marketing technology news",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "MarTech & AdTech",
+      "emoji": "📈"
+    },
+    {
+      "name": "Moz Blog",
+      "url": "https://moz.com/blog",
+      "focus": "SEO education and tools",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "MarTech & AdTech",
+      "emoji": "📈"
+    },
+    {
+      "name": "Salesforce Blog",
+      "url": "https://www.salesforce.com/blog/",
+      "focus": "CRM and marketing cloud",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "MarTech & AdTech",
+      "emoji": "📈"
+    },
+    {
+      "name": "Search Engine Land",
+      "url": "https://searchengineland.com/",
+      "focus": "SEO and search marketing",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "MarTech & AdTech",
+      "emoji": "📈"
+    },
+    {
+      "name": "SEMrush Blog",
+      "url": "https://www.semrush.com/blog/",
+      "focus": "SEO and competitive research",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "MarTech & AdTech",
+      "emoji": "📈"
+    },
+    {
+      "name": "Social Media Today",
+      "url": "https://www.socialmediatoday.com/",
+      "focus": "Social media marketing",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "MarTech & AdTech",
+      "emoji": "📈"
+    },
+    {
+      "name": "The Drum",
+      "url": "https://www.thedrum.com/",
+      "focus": "Creative and marketing news",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "MarTech & AdTech",
+      "emoji": "📈"
+    },
+    {
+      "name": "Apache Foundation Blog",
+      "url": "https://blogs.apache.org/",
+      "focus": "Apache project updates",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Open Source",
+      "emoji": "🔓"
+    },
+    {
+      "name": "CNCF Blog",
+      "url": "https://www.cncf.io/blog/",
+      "focus": "Cloud native open source",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Open Source",
+      "emoji": "🔓"
+    },
+    {
+      "name": "FOSS Weekly",
+      "url": "https://fossweekly.beehiiv.com/",
+      "focus": "Weekly free and open source software roundup",
+      "type": "Newsletter",
+      "tier": "Niche",
+      "vertical": "Open Source",
+      "emoji": "🔓"
+    },
+    {
+      "name": "FOSSA Blog",
+      "url": "https://fossa.com/blog",
+      "focus": "License compliance and security",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Open Source",
+      "emoji": "🔓"
+    },
+    {
+      "name": "FreeBSD Blog",
+      "url": "https://freebsdfoundation.org/blog/",
+      "focus": "FreeBSD operating system",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Open Source",
+      "emoji": "🔓"
+    },
+    {
+      "name": "GitHub Blog",
+      "url": "https://github.blog/category/open-source/",
+      "focus": "Open source community",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Open Source",
+      "emoji": "🔓"
+    },
+    {
+      "name": "GNOME Blog",
+      "url": "https://blogs.gnome.org/",
+      "focus": "Desktop Linux environment",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Open Source",
+      "emoji": "🔓"
+    },
+    {
+      "name": "Homebrew Blog",
+      "url": "https://brew.sh/blog/",
+      "focus": "macOS package manager",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Open Source",
+      "emoji": "🔓"
+    },
+    {
+      "name": "KDE Blog",
+      "url": "https://kde.org/community/whatiskde/",
+      "focus": "KDE Plasma and applications",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Open Source",
+      "emoji": "🔓"
+    },
+    {
+      "name": "Linux Foundation Blog",
+      "url": "https://www.linuxfoundation.org/blog/",
+      "focus": "Open source ecosystem news",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Open Source",
+      "emoji": "🔓"
+    },
+    {
+      "name": "Mozilla Blog",
+      "url": "https://blog.mozilla.org/",
+      "focus": "Internet health and open web",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Open Source",
+      "emoji": "🔓"
+    },
+    {
+      "name": "NixOS Blog",
+      "url": "https://nixos.org/blog/",
+      "focus": "Reproducible builds and deployment",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Open Source",
+      "emoji": "🔓"
+    },
+    {
+      "name": "Open Source Initiative",
+      "url": "https://opensource.org/",
+      "focus": "Open source advocacy",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Open Source",
+      "emoji": "🔓"
+    },
+    {
+      "name": "Open Source Security Podcast",
+      "url": "https://opensourcesecurity.io/",
+      "focus": "Security in open source ecosystems",
+      "type": "Podcast",
+      "tier": "Niche",
+      "vertical": "Open Source",
+      "emoji": "🔓"
+    },
+    {
+      "name": "OpenBSD Journal",
+      "url": "https://undeadly.org/",
+      "focus": "OpenBSD security and development",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Open Source",
+      "emoji": "🔓"
+    },
+    {
+      "name": "Postgres Blog",
+      "url": "https://www.postgresql.org/about/",
+      "focus": "PostgreSQL database news",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Open Source",
+      "emoji": "🔓"
+    },
+    {
+      "name": "Python Blog",
+      "url": "https://blog.python.org/",
+      "focus": "Python language updates",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Open Source",
+      "emoji": "🔓"
+    },
+    {
+      "name": "Red Hat Blog",
+      "url": "https://www.redhat.com/en/blog",
+      "focus": "Enterprise open source",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Open Source",
+      "emoji": "🔓"
+    },
+    {
+      "name": "Rust Blog",
+      "url": "https://blog.rust-lang.org/",
+      "focus": "Rust language development",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Open Source",
+      "emoji": "🔓"
+    },
+    {
+      "name": "Tidelift Blog",
+      "url": "https://tidelift.com/blog",
+      "focus": "Open source sustainability",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Open Source",
+      "emoji": "🔓"
+    },
+    {
+      "name": "20VC Podcast",
+      "url": "https://www.thetwentyminutevc.com/",
+      "focus": "VC investor interviews",
+      "type": "Podcast",
+      "tier": "Primary",
+      "vertical": "Venture Capital & Startups",
+      "emoji": "💰"
+    },
+    {
+      "name": "a16z Blog",
+      "url": "https://a16z.com/content/",
+      "focus": "VC perspective on tech",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Venture Capital & Startups",
+      "emoji": "💰"
+    },
+    {
+      "name": "All-In Podcast",
+      "url": "https://www.allinpodcast.co/",
+      "focus": "Tech market and VC discussion",
+      "type": "Podcast",
+      "tier": "Primary",
+      "vertical": "Venture Capital & Startups",
+      "emoji": "💰"
+    },
+    {
+      "name": "Bessemer Blog",
+      "url": "https://www.bvp.com/atlas",
+      "focus": "Cloud and SaaS investing",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Venture Capital & Startups",
+      "emoji": "💰"
+    },
+    {
+      "name": "CB Insights",
+      "url": "https://www.cbinsights.com/research/",
+      "focus": "Tech market intelligence",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Venture Capital & Startups",
+      "emoji": "💰"
+    },
+    {
+      "name": "Crunchbase News",
+      "url": "https://news.crunchbase.com/",
+      "focus": "Funding and M&A data",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Venture Capital & Startups",
+      "emoji": "💰"
+    },
+    {
+      "name": "EnterpriseAM Egypt Tech",
+      "url": "https://enterpriseam.com/egypt/category/industries/tech/",
+      "focus": "Egyptian tech startup ecosystem and technology news",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Venture Capital & Startups",
+      "emoji": "💰"
+    },
+    {
+      "name": "First Round Review",
+      "url": "https://review.firstround.com/",
+      "focus": "Startup management playbooks",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Venture Capital & Startups",
+      "emoji": "💰"
+    },
+    {
+      "name": "Greylock Blog",
+      "url": "https://greylock.com/blog/",
+      "focus": "Enterprise startup insights",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Venture Capital & Startups",
+      "emoji": "💰"
+    },
+    {
+      "name": "NFX Blog",
+      "url": "https://www.nfx.com/",
+      "focus": "Network effects and growth",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Venture Capital & Startups",
+      "emoji": "💰"
+    },
+    {
+      "name": "PitchBook Blog",
+      "url": "https://pitchbook.com/blog",
+      "focus": "VC, PE and M&A research",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Venture Capital & Startups",
+      "emoji": "💰"
+    },
+    {
+      "name": "SaaStr",
+      "url": "https://www.saastr.com/",
+      "focus": "SaaS business and growth",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Venture Capital & Startups",
+      "emoji": "💰"
+    },
+    {
+      "name": "SignalFire Blog",
+      "url": "https://signalfire.com/blog",
+      "focus": "Data-driven venture capital",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Venture Capital & Startups",
+      "emoji": "💰"
+    },
+    {
+      "name": "Stratechery",
+      "url": "https://stratechery.com/",
+      "focus": "Tech strategy and business model analysis",
+      "type": "Newsletter",
+      "tier": "Primary",
+      "vertical": "Venture Capital & Startups",
+      "emoji": "💰"
+    },
+    {
+      "name": "StrictlyVC",
+      "url": "https://strictlyvc.com/",
+      "focus": "Daily VC and startup news",
+      "type": "Newsletter",
+      "tier": "Primary",
+      "vertical": "Venture Capital & Startups",
+      "emoji": "💰"
+    },
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/",
+      "focus": "Startup news and funding",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Venture Capital & Startups",
+      "emoji": "💰"
+    },
+    {
+      "name": "The Generalist",
+      "url": "https://www.generalist.com/",
+      "focus": "Deep-dive startup analysis",
+      "type": "Newsletter",
+      "tier": "Primary",
+      "vertical": "Venture Capital & Startups",
+      "emoji": "💰"
+    },
+    {
+      "name": "Turnaround",
+      "url": "https://www.turnaroundpodcast.com/",
+      "focus": "Startup failure stories and lessons",
+      "type": "Podcast",
+      "tier": "Niche",
+      "vertical": "Venture Capital & Startups",
+      "emoji": "💰"
+    },
+    {
+      "name": "Villiage Global Podcast",
+      "url": "https://www.villageglobal.vc/podcast",
+      "focus": "VC perspectives on emerging tech",
+      "type": "Podcast",
+      "tier": "Niche",
+      "vertical": "Venture Capital & Startups",
+      "emoji": "💰"
+    },
+    {
+      "name": "YC Blog",
+      "url": "https://www.ycombinator.com/blog",
+      "focus": "Y Combinator ecosystem",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Venture Capital & Startups",
+      "emoji": "💰"
+    },
+    {
+      "name": "Access Now Blog",
+      "url": "https://www.accessnow.org/blog/",
+      "focus": "Digital rights worldwide",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Tech Policy & Law",
+      "emoji": "📜"
+    },
+    {
+      "name": "CDT Blog",
+      "url": "https://cdt.org/insights/",
+      "focus": "Digital civil rights",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Tech Policy & Law",
+      "emoji": "📜"
+    },
+    {
+      "name": "EconTalk",
+      "url": "https://www.econtalk.org/",
+      "focus": "Economics and technology policy discussions",
+      "type": "Podcast",
+      "tier": "Niche",
+      "vertical": "Tech Policy & Law",
+      "emoji": "📜"
+    },
+    {
+      "name": "EFF DeepLinks",
+      "url": "https://www.eff.org/deeplinks",
+      "focus": "Digital rights and civil liberties",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Tech Policy & Law",
+      "emoji": "📜"
+    },
+    {
+      "name": "Electronic Frontier Foundation Podcast",
+      "url": "https://www.eff.org/podcasts",
+      "focus": "Privacy and free speech audio",
+      "type": "Podcast",
+      "tier": "Niche",
+      "vertical": "Tech Policy & Law",
+      "emoji": "📜"
+    },
+    {
+      "name": "EPIC Blog",
+      "url": "https://epic.org/blog/",
+      "focus": "Privacy and digital rights",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Tech Policy & Law",
+      "emoji": "📜"
+    },
+    {
+      "name": "EU Digital Policy",
+      "url": "https://www.euractiv.com/sections/digital/",
+      "focus": "European tech regulation",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Tech Policy & Law",
+      "emoji": "📜"
+    },
+    {
+      "name": "EU Digital Strategy",
+      "url": "https://digital-strategy.ec.europa.eu/en",
+      "focus": "European digital policy",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Tech Policy & Law",
+      "emoji": "📜"
+    },
+    {
+      "name": "Harvard Berkman Klein",
+      "url": "https://cyber.harvard.edu/blog",
+      "focus": "Internet and society research",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Tech Policy & Law",
+      "emoji": "📜"
+    },
+    {
+      "name": "IAPP Blog",
+      "url": "https://iapp.org/news/",
+      "focus": "Privacy professional news",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Tech Policy & Law",
+      "emoji": "📜"
+    },
+    {
+      "name": "Lawfare",
+      "url": "https://www.lawfaremedia.org/",
+      "focus": "National security and tech law",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Tech Policy & Law",
+      "emoji": "📜"
+    },
+    {
+      "name": "Platformer",
+      "url": "https://www.platformer.news/",
+      "focus": "Social media platforms, moderation, and policy",
+      "type": "Newsletter",
+      "tier": "Primary",
+      "vertical": "Tech Policy & Law",
+      "emoji": "📜"
+    },
+    {
+      "name": "Stanford CIS Blog",
+      "url": "https://cyberlaw.stanford.edu/blog",
+      "focus": "Internet and cyber law",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Tech Policy & Law",
+      "emoji": "📜"
+    },
+    {
+      "name": "TechDirt",
+      "url": "https://www.techdirt.com/",
+      "focus": "Tech policy and free speech",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Tech Policy & Law",
+      "emoji": "📜"
+    },
+    {
+      "name": "The Center for AI Policy",
+      "url": "https://www.aipolicy.us/",
+      "focus": "AI regulation and safety",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Tech Policy & Law",
+      "emoji": "📜"
+    },
+    {
+      "name": "The Markup",
+      "url": "https://themarkup.org/",
+      "focus": "Data-driven technology accountability journalism",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Tech Policy & Law",
+      "emoji": "📜"
+    },
+    {
+      "name": "Arduino Blog",
+      "url": "https://blog.arduino.cc/",
+      "focus": "Open-source electronics platform",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "IoT & Edge Computing",
+      "emoji": "📶"
+    },
+    {
+      "name": "Balena Blog",
+      "url": "https://www.balena.io/blog/",
+      "focus": "IoT device management",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "IoT & Edge Computing",
+      "emoji": "📶"
+    },
+    {
+      "name": "Edge Computing World",
+      "url": "https://edgecomputingworld.com/",
+      "focus": "Edge infrastructure news",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "IoT & Edge Computing",
+      "emoji": "📶"
+    },
+    {
+      "name": "Edge IR",
+      "url": "https://www.edgeir.com/",
+      "focus": "Edge computing industry news and insights",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "IoT & Edge Computing",
+      "emoji": "📶"
+    },
+    {
+      "name": "Embedded Computing Design",
+      "url": "https://embeddedcomputing.com/",
+      "focus": "Embedded systems and IoT design",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "IoT & Edge Computing",
+      "emoji": "📶"
+    },
+    {
+      "name": "Espressif Blog",
+      "url": "https://blog.espressif.com/",
+      "focus": "ESP32 and IoT chips",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "IoT & Edge Computing",
+      "emoji": "📶"
+    },
+    {
+      "name": "Hackster.io",
+      "url": "https://www.hackster.io/news",
+      "focus": "Hardware hacking community",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "IoT & Edge Computing",
+      "emoji": "📶"
+    },
+    {
+      "name": "IoT Agenda",
+      "url": "https://www.techtarget.com/iotagenda/",
+      "focus": "Enterprise IoT news",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "IoT & Edge Computing",
+      "emoji": "📶"
+    },
+    {
+      "name": "IoT For All",
+      "url": "https://www.iotforall.com/",
+      "focus": "Internet of Things news and resources",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "IoT & Edge Computing",
+      "emoji": "📶"
+    },
+    {
+      "name": "IoT Podcast",
+      "url": "https://www.iotpodcast.com/",
+      "focus": "Internet of Things news and analysis",
+      "type": "Podcast",
+      "tier": "Niche",
+      "vertical": "IoT & Edge Computing",
+      "emoji": "📶"
+    },
+    {
+      "name": "IoT World Today",
+      "url": "https://www.iotworldtoday.com/",
+      "focus": "IoT industry coverage",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "IoT & Edge Computing",
+      "emoji": "📶"
+    },
+    {
+      "name": "Nordic Semiconductor Blog",
+      "url": "https://blog.nordicsemi.com/",
+      "focus": "Wireless IoT chips",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "IoT & Edge Computing",
+      "emoji": "📶"
+    },
+    {
+      "name": "Particle Blog",
+      "url": "https://www.particle.io/blog/",
+      "focus": "IoT hardware and connectivity",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "IoT & Edge Computing",
+      "emoji": "📶"
+    },
+    {
+      "name": "Raspberry Pi Blog",
+      "url": "https://www.raspberrypi.com/blog/",
+      "focus": "Maker and IoT computing",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "IoT & Edge Computing",
+      "emoji": "📶"
+    },
+    {
+      "name": "Samsara Blog",
+      "url": "https://www.samsara.com/blog",
+      "focus": "Industrial IoT and safety",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "IoT & Edge Computing",
+      "emoji": "📶"
+    },
+    {
+      "name": "Seeed Studio Blog",
+      "url": "https://www.seeedstudio.com/blog/",
+      "focus": "IoT hardware and sensors",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "IoT & Edge Computing",
+      "emoji": "📶"
+    },
+    {
+      "name": "Stacey on IoT",
+      "url": "https://staceyoniot.com/",
+      "focus": "Internet of Things news and interviews",
+      "type": "Podcast",
+      "tier": "Primary",
+      "vertical": "IoT & Edge Computing",
+      "emoji": "📶"
+    },
+    {
+      "name": "STL Partners",
+      "url": "https://stlpartners.com/",
+      "focus": "Edge and telecom research",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "IoT & Edge Computing",
+      "emoji": "📶"
+    },
+    {
+      "name": "A List Apart",
+      "url": "https://alistapart.com/",
+      "focus": "Web standards and design",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Design & UX",
+      "emoji": "🎨"
+    },
+    {
+      "name": "Adobe Blog",
+      "url": "https://blog.adobe.com/",
+      "focus": "Creative cloud updates",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Design & UX",
+      "emoji": "🎨"
+    },
+    {
+      "name": "Behance Blog",
+      "url": "https://www.behance.net/blog",
+      "focus": "Creative portfolio platform",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Design & UX",
+      "emoji": "🎨"
+    },
+    {
+      "name": "Design Better Podcast",
+      "url": "https://www.designbetter.co/podcast",
+      "focus": "Design leadership and UX strategy interviews",
+      "type": "Podcast",
+      "tier": "Niche",
+      "vertical": "Design & UX",
+      "emoji": "🎨"
+    },
+    {
+      "name": "Design Shack",
+      "url": "https://designshack.net/",
+      "focus": "Web design inspiration",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Design & UX",
+      "emoji": "🎨"
+    },
+    {
+      "name": "Figma Blog",
+      "url": "https://www.figma.com/blog/",
+      "focus": "Design tool innovation",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Design & UX",
+      "emoji": "🎨"
+    },
+    {
+      "name": "Material Design Blog",
+      "url": "https://material.io/blog",
+      "focus": "Google design system",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Design & UX",
+      "emoji": "🎨"
+    },
+    {
+      "name": "Nielsen Norman Group",
+      "url": "https://www.nngroup.com/articles/",
+      "focus": "UX research and usability",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Design & UX",
+      "emoji": "🎨"
+    },
+    {
+      "name": "Penpot Blog",
+      "url": "https://penpot.app/blog",
+      "focus": "Open-source design tool",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Design & UX",
+      "emoji": "🎨"
+    },
+    {
+      "name": "Rive Blog",
+      "url": "https://rive.app/blog",
+      "focus": "Interactive animation tool",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Design & UX",
+      "emoji": "🎨"
+    },
+    {
+      "name": "Smashing Magazine",
+      "url": "https://www.smashingmagazine.com/",
+      "focus": "Web design and development",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Design & UX",
+      "emoji": "🎨"
+    },
+    {
+      "name": "Studio by UXPin",
+      "url": "https://www.uxpin.com/studio/",
+      "focus": "Design systems and tools",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Design & UX",
+      "emoji": "🎨"
+    },
+    {
+      "name": "UX Collective",
+      "url": "https://uxdesign.cc/",
+      "focus": "UX design insights",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Design & UX",
+      "emoji": "🎨"
+    },
+    {
+      "name": "UX Design Weekly",
+      "url": "https://uxdesignweekly.com/",
+      "focus": "Curated UX design resources and news",
+      "type": "Newsletter",
+      "tier": "Primary",
+      "vertical": "Design & UX",
+      "emoji": "🎨"
+    },
+    {
+      "name": "UX Planet",
+      "url": "https://uxplanet.org/",
+      "focus": "User experience design",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Design & UX",
+      "emoji": "🎨"
+    },
+    {
+      "name": "UXPod",
+      "url": "https://uxpod.com/",
+      "focus": "User experience podcast",
+      "type": "Podcast",
+      "tier": "Niche",
+      "vertical": "Design & UX",
+      "emoji": "🎨"
+    },
+    {
+      "name": "Adalo Blog",
+      "url": "https://www.adalo.com/blog",
+      "focus": "No-code mobile apps",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "No Code & Low Code",
+      "emoji": "🧩"
+    },
+    {
+      "name": "Airtable Blog",
+      "url": "https://airtable.com/blog",
+      "focus": "No code database platform",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "No Code & Low Code",
+      "emoji": "🧩"
+    },
+    {
+      "name": "AppSheet Blog",
+      "url": "https://www.appsheet.com/blog",
+      "focus": "Google no code platform",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "No Code & Low Code",
+      "emoji": "🧩"
+    },
+    {
+      "name": "Bubble Blog",
+      "url": "https://bubble.io/blog",
+      "focus": "No code web app builder",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "No Code & Low Code",
+      "emoji": "🧩"
+    },
+    {
+      "name": "FlutterFlow Blog",
+      "url": "https://flutterflow.io/blog",
+      "focus": "Low-code Flutter apps",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "No Code & Low Code",
+      "emoji": "🧩"
+    },
+    {
+      "name": "Glide Blog",
+      "url": "https://www.glideapps.com/blog",
+      "focus": "App builder from spreadsheets",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "No Code & Low Code",
+      "emoji": "🧩"
+    },
+    {
+      "name": "Low Code Logic Podcast",
+      "url": "https://lowcodelogic.com/",
+      "focus": "Low-code and no-code platform discussions",
+      "type": "Podcast",
+      "tier": "Niche",
+      "vertical": "No Code & Low Code",
+      "emoji": "🧩"
+    },
+    {
+      "name": "Make Blog",
+      "url": "https://www.make.com/blog",
+      "focus": "Visual automation platform",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "No Code & Low Code",
+      "emoji": "🧩"
+    },
+    {
+      "name": "Makerpad",
+      "url": "https://www.makerpad.co/",
+      "focus": "No code tutorials and tools",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "No Code & Low Code",
+      "emoji": "🧩"
+    },
+    {
+      "name": "n8n Blog",
+      "url": "https://blog.n8n.io/",
+      "focus": "Open-source workflow automation",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "No Code & Low Code",
+      "emoji": "🧩"
+    },
+    {
+      "name": "NoCodeJournal",
+      "url": "https://www.nocodejournal.com/",
+      "focus": "No code community news",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "No Code & Low Code",
+      "emoji": "🧩"
+    },
+    {
+      "name": "NoCodeOps Podcast",
+      "url": "https://www.nocodeops.com/",
+      "focus": "No-code operations and automation",
+      "type": "Podcast",
+      "tier": "Niche",
+      "vertical": "No Code & Low Code",
+      "emoji": "🧩"
+    },
+    {
+      "name": "Notion Blog",
+      "url": "https://www.notion.so/blog",
+      "focus": "Productivity and documentation",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "No Code & Low Code",
+      "emoji": "🧩"
+    },
+    {
+      "name": "Retool Blog",
+      "url": "https://retool.com/blog/",
+      "focus": "Low code internal tools",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "No Code & Low Code",
+      "emoji": "🧩"
+    },
+    {
+      "name": "Webflow Blog",
+      "url": "https://webflow.com/blog",
+      "focus": "Visual web development",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "No Code & Low Code",
+      "emoji": "🧩"
+    },
+    {
+      "name": "Zapier Blog",
+      "url": "https://zapier.com/blog/",
+      "focus": "Automation and integrations",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "No Code & Low Code",
+      "emoji": "🧩"
+    },
+    {
+      "name": "API Changelog",
+      "url": "https://apichangelog.com/",
+      "focus": "API versioning updates",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "API Economy",
+      "emoji": "🔌"
+    },
+    {
+      "name": "API Evangelist",
+      "url": "https://apievangelist.com/",
+      "focus": "API industry analysis",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "API Economy",
+      "emoji": "🔌"
+    },
+    {
+      "name": "Apollo GraphQL Blog",
+      "url": "https://www.apollographql.com/blog/",
+      "focus": "GraphQL ecosystem",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "API Economy",
+      "emoji": "🔌"
+    },
+    {
+      "name": "Confluent Blog",
+      "url": "https://www.confluent.io/blog/",
+      "focus": "Apache Kafka and event streaming",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "API Economy",
+      "emoji": "🔌"
+    },
+    {
+      "name": "Hasura Blog",
+      "url": "https://hasura.io/blog/",
+      "focus": "GraphQL API engine",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "API Economy",
+      "emoji": "🔌"
+    },
+    {
+      "name": "Kong Blog",
+      "url": "https://konghq.com/blog/",
+      "focus": "API gateway and management",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "API Economy",
+      "emoji": "🔌"
+    },
+    {
+      "name": "Ngrok Blog",
+      "url": "https://ngrok.com/blog",
+      "focus": "Secure ingress and API tunnels",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "API Economy",
+      "emoji": "🔌"
+    },
+    {
+      "name": "Nordic APIs",
+      "url": "https://nordicapis.com/",
+      "focus": "API best practices",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "API Economy",
+      "emoji": "🔌"
+    },
+    {
+      "name": "Postman Blog",
+      "url": "https://blog.postman.com/",
+      "focus": "API development tools",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "API Economy",
+      "emoji": "🔌"
+    },
+    {
+      "name": "Stripe Blog",
+      "url": "https://stripe.com/blog",
+      "focus": "API-first payments",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "API Economy",
+      "emoji": "🔌"
+    },
+    {
+      "name": "Swagger Blog",
+      "url": "https://swagger.io/blog/",
+      "focus": "API documentation standards",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "API Economy",
+      "emoji": "🔌"
+    },
+    {
+      "name": "Twilio Blog",
+      "url": "https://www.twilio.com/blog",
+      "focus": "Communication APIs",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "API Economy",
+      "emoji": "🔌"
+    },
+    {
+      "name": "Tyk Blog",
+      "url": "https://tyk.io/blog/",
+      "focus": "Open-source API gateway",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "API Economy",
+      "emoji": "🔌"
+    },
+    {
+      "name": "Airtable Blog",
+      "url": "https://airtable.com/blog",
+      "focus": "No-code database platform",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Enterprise SaaS",
+      "emoji": "🏢"
+    },
+    {
+      "name": "Asana Blog",
+      "url": "https://asana.com/blog",
+      "focus": "Project management and work tracking",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Enterprise SaaS",
+      "emoji": "🏢"
+    },
+    {
+      "name": "ClickUp Blog",
+      "url": "https://clickup.com/blog",
+      "focus": "Productivity platform",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Enterprise SaaS",
+      "emoji": "🏢"
+    },
+    {
+      "name": "Cloud Wars",
+      "url": "https://cloudwars.com/",
+      "focus": "Enterprise cloud competition",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Enterprise SaaS",
+      "emoji": "🏢"
+    },
+    {
+      "name": "CRM Magazine",
+      "url": "https://www.destinationcrm.com/",
+      "focus": "Customer relationship tech",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Enterprise SaaS",
+      "emoji": "🏢"
+    },
+    {
+      "name": "Enterprise Times",
+      "url": "https://www.enterprisetimes.com/",
+      "focus": "Enterprise IT news",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Enterprise SaaS",
+      "emoji": "🏢"
+    },
+    {
+      "name": "Jira Blog",
+      "url": "https://www.atlassian.com/blog/jira",
+      "focus": "Issue tracking and agile",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Enterprise SaaS",
+      "emoji": "🏢"
+    },
+    {
+      "name": "Miro Blog",
+      "url": "https://miro.com/blog/",
+      "focus": "Collaborative whiteboard platform",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Enterprise SaaS",
+      "emoji": "🏢"
+    },
+    {
+      "name": "Monday.com Blog",
+      "url": "https://monday.com/blog/",
+      "focus": "Work OS for teams",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Enterprise SaaS",
+      "emoji": "🏢"
+    },
+    {
+      "name": "Notion Blog",
+      "url": "https://www.notion.so/blog",
+      "focus": "All-in-one knowledge platform",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Enterprise SaaS",
+      "emoji": "🏢"
+    },
+    {
+      "name": "Oracle Blog",
+      "url": "https://blogs.oracle.com/",
+      "focus": "Database and cloud",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Enterprise SaaS",
+      "emoji": "🏢"
+    },
+    {
+      "name": "SaaStr",
+      "url": "https://www.saastr.com/",
+      "focus": "SaaS business and growth",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Enterprise SaaS",
+      "emoji": "🏢"
+    },
+    {
+      "name": "Salesforce 360 Blog",
+      "url": "https://www.salesforce.com/blog/",
+      "focus": "CRM and customer success",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Enterprise SaaS",
+      "emoji": "🏢"
+    },
+    {
+      "name": "SAP Community",
+      "url": "https://community.sap.com/",
+      "focus": "Enterprise resource planning",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Enterprise SaaS",
+      "emoji": "🏢"
+    },
+    {
+      "name": "Silicon Angle",
+      "url": "https://siliconangle.com/",
+      "focus": "Enterprise IT and cloud",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Enterprise SaaS",
+      "emoji": "🏢"
+    },
+    {
+      "name": "Workday Blog",
+      "url": "https://blog.workday.com/",
+      "focus": "HCM and finance cloud",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Enterprise SaaS",
+      "emoji": "🏢"
+    },
+    {
+      "name": "ZDNet",
+      "url": "https://www.zdnet.com/",
+      "focus": "Enterprise technology news",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Enterprise SaaS",
+      "emoji": "🏢"
+    },
+    {
+      "name": "Big Technology",
+      "url": "https://bigtechnology.substack.com/",
+      "focus": "Tech industry analysis and culture",
+      "type": "Newsletter",
+      "tier": "Primary",
+      "vertical": "Tech Careers & Culture",
+      "emoji": "🧑‍💻"
+    },
+    {
+      "name": "Big Technology Podcast",
+      "url": "https://www.bigtechnology.com/podcast",
+      "focus": "Tech industry news and analysis",
+      "type": "Podcast",
+      "tier": "Niche",
+      "vertical": "Tech Careers & Culture",
+      "emoji": "🧑‍💻"
+    },
+    {
+      "name": "Blind Blog",
+      "url": "https://www.teamblind.com/blog/",
+      "focus": "Tech workplace community",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Tech Careers & Culture",
+      "emoji": "🧑‍💻"
+    },
+    {
+      "name": "Candor Blog",
+      "url": "https://candor.co/articles",
+      "focus": "Tech company culture data",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Tech Careers & Culture",
+      "emoji": "🧑‍💻"
+    },
+    {
+      "name": "Charity Majors Blog",
+      "url": "https://charity.wtf/",
+      "focus": "Engineering culture and ops",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Tech Careers & Culture",
+      "emoji": "🧑‍💻"
+    },
+    {
+      "name": "Coding Blocks Podcast",
+      "url": "https://www.codingblocks.net/",
+      "focus": "Software career discussions",
+      "type": "Podcast",
+      "tier": "Niche",
+      "vertical": "Tech Careers & Culture",
+      "emoji": "🧑‍💻"
+    },
+    {
+      "name": "Glassdoor Blog",
+      "url": "https://www.glassdoor.com/blog/",
+      "focus": "Company reviews and jobs",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Tech Careers & Culture",
+      "emoji": "🧑‍💻"
+    },
+    {
+      "name": "High Growth Engineer",
+      "url": "https://careercutler.substack.com/",
+      "focus": "Engineering career strategy",
+      "type": "Newsletter",
+      "tier": "Niche",
+      "vertical": "Tech Careers & Culture",
+      "emoji": "🧑‍💻"
+    },
+    {
+      "name": "Interviewing.io Blog",
+      "url": "https://interviewing.io/blog",
+      "focus": "Tech interview preparation",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Tech Careers & Culture",
+      "emoji": "🧑‍💻"
+    },
+    {
+      "name": "Lenny's Newsletter",
+      "url": "https://www.lennysnewsletter.com/",
+      "focus": "Product management and growth",
+      "type": "Newsletter",
+      "tier": "Primary",
+      "vertical": "Tech Careers & Culture",
+      "emoji": "🧑‍💻"
+    },
+    {
+      "name": "Levels.fyi Blog",
+      "url": "https://www.levels.fyi/blog/",
+      "focus": "Tech compensation and levels",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Tech Careers & Culture",
+      "emoji": "🧑‍💻"
+    },
+    {
+      "name": "Levels.fyi Podcast",
+      "url": "https://www.levels.fyi/podcast/",
+      "focus": "Tech compensation and career growth",
+      "type": "Podcast",
+      "tier": "Niche",
+      "vertical": "Tech Careers & Culture",
+      "emoji": "🧑‍💻"
+    },
+    {
+      "name": "LinkedIn Tech News",
+      "url": "https://www.linkedin.com/news/tech/",
+      "focus": "Tech industry hiring trends",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Tech Careers & Culture",
+      "emoji": "🧑‍💻"
+    },
+    {
+      "name": "Rands in Repose",
+      "url": "https://randsinrepose.com/",
+      "focus": "Engineering leadership essays",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Tech Careers & Culture",
+      "emoji": "🧑‍💻"
+    },
+    {
+      "name": "Tech Lead Journal",
+      "url": "https://techleadjournal.com/",
+      "focus": "Technical leadership essays",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Tech Careers & Culture",
+      "emoji": "🧑‍💻"
+    },
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/category/venture/",
+      "focus": "Startup career culture",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Tech Careers & Culture",
+      "emoji": "🧑‍💻"
+    },
+    {
+      "name": "Techish Podcast",
+      "url": "https://www.techishpod.com/",
+      "focus": "Tech culture and diversity",
+      "type": "Podcast",
+      "tier": "Niche",
+      "vertical": "Tech Careers & Culture",
+      "emoji": "🧑‍💻"
+    },
+    {
+      "name": "The Pragmatic Engineer",
+      "url": "https://blog.pragmaticengineer.com/",
+      "focus": "Engineering career growth",
+      "type": "Newsletter",
+      "tier": "Primary",
+      "vertical": "Tech Careers & Culture",
+      "emoji": "🧑‍💻"
+    },
+    {
+      "name": "ArXiv Blog",
+      "url": "https://blog.arxiv.org/",
+      "focus": "Preprint repository updates",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Science & Research",
+      "emoji": "🔬"
+    },
+    {
+      "name": "Cell Press",
+      "url": "https://www.cell.com/",
+      "focus": "Biomedical research",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Science & Research",
+      "emoji": "🔬"
+    },
+    {
+      "name": "Chemistry World",
+      "url": "https://www.chemistryworld.com/",
+      "focus": "Chemistry research news",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Science & Research",
+      "emoji": "🔬"
+    },
+    {
+      "name": "ESA Science",
+      "url": "https://www.esa.int/Science_Exploration",
+      "focus": "European space science",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Science & Research",
+      "emoji": "🔬"
+    },
+    {
+      "name": "Frontiers in Science",
+      "url": "https://www.frontiersin.org/",
+      "focus": "Peer-reviewed open access",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Science & Research",
+      "emoji": "🔬"
+    },
+    {
+      "name": "NASA Earth Observatory",
+      "url": "https://earthobservatory.nasa.gov/",
+      "focus": "Earth science and climate",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Science & Research",
+      "emoji": "🔬"
+    },
+    {
+      "name": "NASA Science Blog",
+      "url": "https://science.nasa.gov/blog/",
+      "focus": "Space agency science",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Science & Research",
+      "emoji": "🔬"
+    },
+    {
+      "name": "Nature News",
+      "url": "https://www.nature.com/news/",
+      "focus": "Multidisciplinary science news",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Science & Research",
+      "emoji": "🔬"
+    },
+    {
+      "name": "Nature Podcast",
+      "url": "https://www.nature.com/nature/articles?type=nature-podcast",
+      "focus": "Science news explained",
+      "type": "Podcast",
+      "tier": "Primary",
+      "vertical": "Science & Research",
+      "emoji": "🔬"
+    },
+    {
+      "name": "New Scientist",
+      "url": "https://www.newscientist.com/",
+      "focus": "Popular science insights",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Science & Research",
+      "emoji": "🔬"
+    },
+    {
+      "name": "Physics World",
+      "url": "https://physicsworld.com/",
+      "focus": "Physics research news",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Science & Research",
+      "emoji": "🔬"
+    },
+    {
+      "name": "PLOS One",
+      "url": "https://journals.plos.org/plosone/",
+      "focus": "Open-access science",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Science & Research",
+      "emoji": "🔬"
+    },
+    {
+      "name": "PNAS Journal",
+      "url": "https://www.pnas.org/",
+      "focus": "Multidisciplinary research",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Science & Research",
+      "emoji": "🔬"
+    },
+    {
+      "name": "Quanta Magazine",
+      "url": "https://www.quantamagazine.org/",
+      "focus": "Theoretical science explained",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Science & Research",
+      "emoji": "🔬"
+    },
+    {
+      "name": "Retraction Watch",
+      "url": "https://retractionwatch.com/",
+      "focus": "Scientific integrity and corrections",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Science & Research",
+      "emoji": "🔬"
+    },
+    {
+      "name": "Science Magazine",
+      "url": "https://www.science.org/news",
+      "focus": "Leading scientific research",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Science & Research",
+      "emoji": "🔬"
+    },
+    {
+      "name": "The Cosmic Companion",
+      "url": "https://thecosmiccompanion.net/",
+      "focus": "Astronomy and space science news",
+      "type": "Newsletter",
+      "tier": "Niche",
+      "vertical": "Science & Research",
+      "emoji": "🔬"
+    },
+    {
+      "name": "The Scientist",
+      "url": "https://www.the-scientist.com/",
+      "focus": "Life science news",
+      "type": "Website",
+      "tier": "Niche",
+      "vertical": "Science & Research",
+      "emoji": "🔬"
+    },
+    {
+      "name": "Wired Science",
+      "url": "https://www.wired.com/category/science/",
+      "focus": "Science and technology",
+      "type": "Website",
+      "tier": "Primary",
+      "vertical": "Science & Research",
+      "emoji": "🔬"
+    }
+  ],
+  "count": 640
+}
