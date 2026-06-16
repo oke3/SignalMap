@@ -1,14 +1,21 @@
 {
-  "name": "SignalMap",
+  "name": "SignalMap — Tech News Directory",
   "short_name": "SignalMap",
+  "description": "Curated directory of 640+ top tech news outlets across 36 verticals.",
+  "start_url": "/SignalMap/",
+  "scope": "/SignalMap/",
   "icons": [
     {
-      "src": "/favicon.svg",
-      "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/svg+xml"
+      "src": "/SignalMap/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
     }
   ],
+  "categories": ["news", "technology", "reference"],
   "theme_color": "#0a0e17",
   "background_color": "#0a0e17",
-  "display": "standalone"
+  "display": "standalone",
+  "display_override": ["standalone", "minimal-ui"],
+  "orientation": "portrait-primary"
 }
