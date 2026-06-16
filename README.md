@@ -8,7 +8,7 @@
 [![Build](https://img.shields.io/badge/Build-Astro-ff4500?style=flat-square&logo=astro&logoColor=white)](https://astro.build)
 [![License](https://img.shields.io/badge/License-MIT-3b82f6?style=flat-square)](#license)
 
-![SignalMap Hero](https://oke3.github.io/SignalMap/hero.svg)
+![SignalMap Hero](https://oke3.github.io/SignalMap/hero.svg?v=2)
 [![Outlets](https://img.shields.io/badge/Outlets-640+-22c55e?style=flat-square)](#)
 [![Verticals](https://img.shields.io/badge/Verticals-36-8b5cf6?style=flat-square)](#)
 [![Build](https://img.shields.io/badge/Build-Astro-ff4500?style=flat-square&logo=astro&logoColor=white)](https://astro.build)
