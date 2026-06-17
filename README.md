@@ -3,14 +3,14 @@
 > **The fastest way to find quality tech news sources across any vertical.**
 
 [![Live Site](https://img.shields.io/badge/Live-SignalMap-2563eb?style=flat-square&logo=github&logoColor=white)](https://oke3.github.io/SignalMap/)
-[![Outlets](https://img.shields.io/badge/Outlets-640+-22c55e?style=flat-square)](#)
-[![Verticals](https://img.shields.io/badge/Verticals-36-8b5cf6?style=flat-square)](#)
+[![Outlets](https://img.shields.io/badge/Outlets-721+-22c55e?style=flat-square)](#)
+[![Verticals](https://img.shields.io/badge/Verticals-39-8b5cf6?style=flat-square)](#)
 [![Build](https://img.shields.io/badge/Build-Astro-ff4500?style=flat-square&logo=astro&logoColor=white)](https://astro.build)
 [![License](https://img.shields.io/badge/License-MIT-3b82f6?style=flat-square)](#license)
 
 ![SignalMap Hero](https://oke3.github.io/SignalMap/hero.svg?v=2)
-[![Outlets](https://img.shields.io/badge/Outlets-640+-22c55e?style=flat-square)](#)
-[![Verticals](https://img.shields.io/badge/Verticals-36-8b5cf6?style=flat-square)](#)
+[![Outlets](https://img.shields.io/badge/Outlets-721+-22c55e?style=flat-square)](#)
+[![Verticals](https://img.shields.io/badge/Verticals-39-8b5cf6?style=flat-square)](#)
 [![Build](https://img.shields.io/badge/Build-Astro-ff4500?style=flat-square&logo=astro&logoColor=white)](https://astro.build)
 [![License](https://img.shields.io/badge/License-MIT-3b82f6?style=flat-square)](#license)
 
@@ -18,7 +18,7 @@
 
 ## 📡 The Short Version
 
-640+ hand-curated tech news outlets. 36 verticals. One directory that doesn't suck.
+721+ hand-curated tech news outlets. 39 verticals. One directory that doesn't suck.
 
 SignalMap is a fast, searchable, PWA-ready directory built for people who need to stay across the tech landscape — researchers, journalists, investors, engineers, and anyone who's tired of the algorithmic feed. Find outlets by category, type (Website/Newsletter/Podcast), or tier (Primary/Niche). Bookmark them. Export them. Open them all at once.
 
@@ -28,8 +28,8 @@ SignalMap is a fast, searchable, PWA-ready directory built for people who need t
 
 | Metric | Count |
 |--------|-------|
-| **Outlets** | 640+ |
-| **Verticals** | 36 |
+| **Outlets** | 721+ |
+| **Verticals** | 39 |
 | **Types** | Websites, Newsletters, Podcasts |
 | **Tiers** | Primary (flagship) & Niche (deep-dive) |
 | **Build Time** | ~seconds (static site) |
@@ -51,13 +51,14 @@ SignalMap is a fast, searchable, PWA-ready directory built for people who need t
 | Venture Capital & Startups | Tech Policy & Law | IoT & Edge Computing |
 | Design & UX | No Code & Low Code | API Economy |
 | Enterprise SaaS | Tech Careers & Culture | Science & Research |
+| Supply Chain & Logistics Tech | Digital Media & Streaming | Creator Economy |
 
 ---
 
 ## ✨ Features
 
 ### 🔍 Search & Discovery
-- **Full-text search** across all 640+ outlets — typeahead with keyboard navigation (`/` or `⌘K` to focus)
+- **Full-text search** across all 721+ outlets — typeahead with keyboard navigation (`/` or `⌘K` to focus)
 - **Filter by type** (Website / Newsletter / Podcast), **category**, and **tier** (Primary / Niche)
 - **Surprise Me** — random outlet picker to break out of your echo chamber
 - **Headline previews** in the search dropdown
