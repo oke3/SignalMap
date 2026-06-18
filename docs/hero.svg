@@ -48,7 +48,7 @@
   <circle cx="100" cy="50" r="6" fill="#28c840"/>
 
   <!-- Filename -->
-  <text x="120" y="55" fill="#8b98a9" font-family="monospace" font-size="12">signalmap.sh <tspan fill="#d6e2f0">— Tech News Directory</tspan></text>
+  <text x="120" y="55" fill="#8b98a9" font-family="monospace" font-size="12">signalmap.sh <tspan fill="#d6e2f0">— 1,000 curated outlets across 50 verticals</tspan></text>
 
   <!-- Gutter line numbers -->
   <g fill="#828c9b" font-family="monospace" font-size="12" text-anchor="end">
@@ -91,13 +91,13 @@
     <tspan fill="#e1e4e8">()</tspan>
   </text>
 
-  <!-- Line 3: console.log(`📡 ${count} outlets · 36 verticals`) -->
+  <!-- Line 3: console.log(`📡 ${count} outlets · 50 verticals`) -->
   <text x="86" y="135" font-family="monospace" font-size="13">
     <tspan fill="#79b8ff">console</tspan>
     <tspan fill="#e1e4e8">.</tspan>
     <tspan fill="#b392f0">log</tspan>
     <tspan fill="#e1e4e8">(</tspan>
-    <tspan fill="#9ecbff">`📡 ${count} outlets · 36 verticals`</tspan>
+    <tspan fill="#9ecbff">`📡 ${count} outlets · 50 verticals`</tspan>
     <tspan fill="#e1e4e8">)</tspan>
   </text>
 
@@ -113,5 +113,5 @@
 
   <!-- Bottom stats bar -->
   <rect x="40" y="360" width="720" height="10" fill="#0c111a" rx="0 0 14 14"/>
-  <text x="60" y="368" fill="#415062" font-family="monospace" font-size="9">640+ outlets · 36 verticals</text>
+  <text x="60" y="368" fill="#415062" font-family="monospace" font-size="9">1,000 outlets · 50 verticals · WCAG 2.2 AA</text>
 </svg>
