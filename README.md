@@ -9,7 +9,7 @@
 [![WCAG](https://img.shields.io/badge/WCAG-2.2_AA-6f42c1?style=flat-square)](#)
 [![License](https://img.shields.io/badge/License-MIT-3b82f6?style=flat-square)](#license)
 
-![SignalMap Hero](https://oke3.github.io/SignalMap/hero.svg?v=3)
+![SignalMap Hero](https://oke3.github.io/SignalMap/hero.svg?v=4)
 
 ---
 
