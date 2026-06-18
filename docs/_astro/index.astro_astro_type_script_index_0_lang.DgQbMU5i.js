@@ -4,10 +4,10 @@ function ht(u){const k=document.createElement("div");return k.textContent=u,k.in
         <div class="flex-1 min-w-0">
           <div class="flex items-center justify-between gap-2">
             <span class="font-semibold truncate">${o.name}</span>
-            <span class="type-badge shrink-0" style="background:var(--badge-${o.type.toLowerCase()});color:var(--badge-text)">${o.type}</span>
+            <span class="type-badge shrink-0 transition-colors duration-150" style="background:var(--badge-${o.type.toLowerCase()});color:var(--badge-text)">${o.type}</span>
           </div>
           <div class="flex items-center gap-2 mt-0.5">
-            <span class="text-[0.6rem] font-bold uppercase tracking-wider px-1.5 py-0.5 rounded-full shrink-0" style="background:var(--badge-niche);color:var(--text-muted)">${o.vertical}</span>
+            <span class="text-[0.6rem] font-bold uppercase tracking-wider px-1.5 py-0.5 rounded-full shrink-0 transition-colors duration-150" style="background:var(--badge-niche);color:var(--text-muted)">${o.vertical}</span>
             ${r?`<span class="text-xs truncate" style="color:var(--blue)">${ht(r.title)}</span>`:`<span class="text-xs truncate opacity-70" style="color:var(--text-dim)">${o.focus}</span>`}
           </div>
         </div>
