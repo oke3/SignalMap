@@ -1,9 +1,9 @@
 # SignalMap 🗺️
 
-> **The definitive map of technology news — 1,000 curated outlets across 50 verticals.**
+> **The definitive map of technology news — 985 curated outlets across 50 verticals.**
 
 [![Live Site](https://img.shields.io/badge/Live-SignalMap-2563eb?style=flat-square&logo=github&logoColor=white)](https://oke3.github.io/SignalMap/)
-[![Outlets](https://img.shields.io/badge/Outlets-1000-22c55e?style=flat-square)](#)
+[![Outlets](https://img.shields.io/badge/Outlets-985-22c55e?style=flat-square)](#)
 [![Verticals](https://img.shields.io/badge/Verticals-50-8b5cf6?style=flat-square)](#)
 [![Build](https://img.shields.io/badge/Build-Astro-ff4500?style=flat-square&logo=astro&logoColor=white)](https://astro.build)
 [![WCAG](https://img.shields.io/badge/WCAG-2.2_AA-6f42c1?style=flat-square)](#)
@@ -15,7 +15,7 @@
 
 ## 📡 The Signal
 
-1,000 hand-curated tech news outlets. 50 verticals. Zero algorithmic feed.
+985 hand-curated tech news outlets. 50 verticals. Zero algorithmic feed.
 
 SignalMap is a fast, searchable, PWA-ready directory for people who need to navigate the tech landscape — researchers, journalists, investors, engineers, and anyone tired of the algorithmic feed. Find outlets by vertical, type (Website / Newsletter / Podcast), tier (Primary ⭐ / Niche), or language. Bookmark them. Export them. Share them.
 
@@ -27,7 +27,7 @@ SignalMap is a fast, searchable, PWA-ready directory for people who need to navi
 
 | Metric | Count |
 |--------|-------|
-| **Outlets** | 1,000+ |
+| **Outlets** | 985 |
 | **Verticals** | 50 |
 | **Types** | Website · Newsletter · Podcast |
 | **Tiers** | Primary (flagship) · Niche (deep-dive) |
@@ -60,7 +60,7 @@ Tech Policy & Law · GovTech & RegTech · Defense Tech · Tech Careers & Culture
 ## ✨ Features
 
 ### 🔍 Search & Discovery
-- **Full-text search** across all 1,000 outlets — typeahead with keyboard navigation (`/` or `⌘K` to focus)
+- **Full-text search** across all 985 outlets — typeahead with keyboard navigation (`/` or `⌘K` to focus)
 - **Filter by type** (Website / Newsletter / Podcast), **category** (6 meta-groups), and **tier** (Primary / Niche)
 - **Primary Only toggle** — hide niche sources, focus on flagship outlets only
 - **Surprise Me** — random outlet picker to break out of your echo chamber
@@ -160,6 +160,8 @@ npm run preview
 | `npm run build` | Generate JSON feed + build static site to `docs/` |
 | `npm run verify` | Validate outlet data structure |
 | `npm run check-urls` | Run URL health check across all outlets |
+| `npm run check-urls:ai` | Check only the Artificial Intelligence vertical |
+| `node scripts/check-urls.cjs --vertical "Cybersecurity"` | Check a specific vertical by name (50 available) |
 | `npm run rss` | Fetch RSS headlines for search previews |
 
 > **Note**: The canonical dataset (`data/directory.json`) and automation scripts (`scripts/`) are local-only per the project's thin-repo architecture. The public repo contains only `README.md` and `docs/` (the built site).
