@@ -433,15 +433,6 @@
       "emoji": "🛡️"
     },
     {
-      "name": "Claroty Team82",
-      "url": "https://team82.io/",
-      "focus": "OT and IoT security research",
-      "type": "Website",
-      "tier": "Primary",
-      "vertical": "Cybersecurity",
-      "emoji": "🛡️"
-    },
-    {
       "name": "CyberScoop",
       "url": "https://cyberscoop.com/",
       "focus": "Policy and government cyber news",
@@ -877,15 +868,6 @@
       "name": "Grafana Blog",
       "url": "https://grafana.com/blog/",
       "focus": "Observability and monitoring",
-      "type": "Website",
-      "tier": "Primary",
-      "vertical": "Cloud Computing",
-      "emoji": "☁️"
-    },
-    {
-      "name": "HashiCorp Blog",
-      "url": "https://www.hashicorp.com/blog",
-      "focus": "Infrastructure and cloud automation",
       "type": "Website",
       "tier": "Primary",
       "vertical": "Cloud Computing",
@@ -1397,7 +1379,7 @@
     },
     {
       "name": "Morning Brew Tech",
-      "url": "https://www.morningbrew.com/tech",
+      "url": "https://www.morningbrew.com/topic/tech",
       "focus": "Daily tech business news",
       "type": "Newsletter",
       "tier": "Primary",
@@ -1532,7 +1514,7 @@
     },
     {
       "name": "11:FS Foundry",
-      "url": "https://11fs.com/insights/",
+      "url": "https://www.11fs.com/content",
       "focus": "Digital banking and fintech strategy",
       "type": "Website",
       "tier": "Primary",
@@ -1714,15 +1696,6 @@
       "name": "Becker Hospital Review",
       "url": "https://www.beckershospitalreview.com/",
       "focus": "Hospital management and health IT",
-      "type": "Website",
-      "tier": "Niche",
-      "vertical": "HealthTech",
-      "emoji": "🏥"
-    },
-    {
-      "name": "Carbon Health Blog",
-      "url": "https://carbonhealth.com/blog",
-      "focus": "Hybrid healthcare tech",
       "type": "Website",
       "tier": "Niche",
       "vertical": "HealthTech",
@@ -1918,15 +1891,6 @@
       "emoji": "🏥"
     },
     {
-      "name": "Zocdoc Blog",
-      "url": "https://www.zocdoc.com/about/blog/",
-      "focus": "Healthcare marketplace",
-      "type": "Website",
-      "tier": "Niche",
-      "vertical": "HealthTech",
-      "emoji": "🏥"
-    },
-    {
       "name": "23andMe Blog",
       "url": "https://blog.23andme.com/",
       "focus": "Consumer genetics",
@@ -2008,15 +1972,6 @@
       "emoji": "🧬"
     },
     {
-      "name": "DNA Science Blog",
-      "url": "https://www.dnascience.plos.org/",
-      "focus": "Genetics and genomics research",
-      "type": "Website",
-      "tier": "Niche",
-      "vertical": "Biotech",
-      "emoji": "🧬"
-    },
-    {
       "name": "Endpoints News",
       "url": "https://endpointnews.com/",
       "focus": "Biopharma industry intelligence",
@@ -2085,15 +2040,6 @@
       "focus": "High-impact biotech research",
       "type": "Website",
       "tier": "Primary",
-      "vertical": "Biotech",
-      "emoji": "🧬"
-    },
-    {
-      "name": "Outsourcing Pharma",
-      "url": "https://www.outsourcing-pharma.com/",
-      "focus": "Pharmaceutical outsourcing and CDMOs",
-      "type": "Website",
-      "tier": "Niche",
       "vertical": "Biotech",
       "emoji": "🧬"
     },
@@ -2593,15 +2539,6 @@
       "emoji": "🚀"
     },
     {
-      "name": "GoTaSpace",
-      "url": "https://gotaspace.com/",
-      "focus": "Space economy and venture news",
-      "type": "Website",
-      "tier": "Niche",
-      "vertical": "SpaceTech",
-      "emoji": "🚀"
-    },
-    {
       "name": "NASA Blog",
       "url": "https://blogs.nasa.gov/",
       "focus": "Official NASA missions and research",
@@ -2616,15 +2553,6 @@
       "focus": "Detailed space launch tracking",
       "type": "Website",
       "tier": "Primary",
-      "vertical": "SpaceTech",
-      "emoji": "🚀"
-    },
-    {
-      "name": "Parabolic Arc",
-      "url": "https://www.parabolicarc.com/",
-      "focus": "Space news and commentary",
-      "type": "Website",
-      "tier": "Niche",
       "vertical": "SpaceTech",
       "emoji": "🚀"
     },
@@ -3052,15 +2980,6 @@
       "emoji": "🌿"
     },
     {
-      "name": "Tesla Energy Blog",
-      "url": "https://www.tesla.com/energy",
-      "focus": "Solar and battery storage",
-      "type": "Website",
-      "tier": "Primary",
-      "vertical": "CleanTech & Energy",
-      "emoji": "🌿"
-    },
-    {
       "name": "The Energy Gang",
       "url": "https://www.greentechmedia.com/podcast",
       "focus": "Clean energy and sustainability podcast",
@@ -3350,7 +3269,7 @@
     },
     {
       "name": "HashiCorp Blog",
-      "url": "https://www.hashicorp.com/blog",
+      "url": "https://www.hashicorp.com/en/blog",
       "focus": "Infrastructure and security tools",
       "type": "Website",
       "tier": "Primary",
@@ -4510,15 +4429,6 @@
       "emoji": "🎓"
     },
     {
-      "name": "MasterClass Blog",
-      "url": "https://masterclass.com/blog",
-      "focus": "Expert-led online learning",
-      "type": "Website",
-      "tier": "Niche",
-      "vertical": "EdTech",
-      "emoji": "🎓"
-    },
-    {
       "name": "Quizlet Blog",
       "url": "https://quizlet.com/blog",
       "focus": "AI-powered study tools",
@@ -4550,15 +4460,6 @@
       "url": "https://blog.superhuman.com/",
       "focus": "EdTech and future of learning",
       "type": "Newsletter",
-      "tier": "Niche",
-      "vertical": "EdTech",
-      "emoji": "🎓"
-    },
-    {
-      "name": "The Tech Edvocate",
-      "url": "https://www.thetechedvocate.org/",
-      "focus": "EdTech advocacy and news",
-      "type": "Website",
       "tier": "Niche",
       "vertical": "EdTech",
       "emoji": "🎓"
@@ -4762,17 +4663,8 @@
       "emoji": "🏠"
     },
     {
-      "name": "Compass Blog",
-      "url": "https://www.compass.com/blog/",
-      "focus": "Real estate technology platform",
-      "type": "Website",
-      "tier": "Primary",
-      "vertical": "PropTech",
-      "emoji": "🏠"
-    },
-    {
       "name": "CoStar News",
-      "url": "https://www.costar.com/article/",
+      "url": "https://www.costar.com/news/us/category/technology",
       "focus": "Commercial real estate",
       "type": "Website",
       "tier": "Niche",
@@ -4857,15 +4749,6 @@
       "focus": "Real estate technology",
       "type": "Website",
       "tier": "Primary",
-      "vertical": "PropTech",
-      "emoji": "🏠"
-    },
-    {
-      "name": "PropTech Pulse",
-      "url": "https://www.proptechpulse.com/",
-      "focus": "Property technology news and interviews podcast",
-      "type": "Podcast",
-      "tier": "Niche",
       "vertical": "PropTech",
       "emoji": "🏠"
     },
@@ -5478,15 +5361,6 @@
       "focus": "Cloud and SaaS investing",
       "type": "Website",
       "tier": "Primary",
-      "vertical": "Venture Capital & Startups",
-      "emoji": "💰"
-    },
-    {
-      "name": "Both Sides of the Table",
-      "url": "https://bothsidesofthetable.com/",
-      "focus": "VC and entrepreneur insights",
-      "type": "Newsletter",
-      "tier": "Niche",
       "vertical": "Venture Capital & Startups",
       "emoji": "💰"
     },
@@ -6419,8 +6293,8 @@
     },
     {
       "name": "Cloudflare API Blog",
-      "url": "https://blog.cloudflare.com/api/",
-      "focus": "API security and performance",
+      "url": "https://blog.cloudflare.com/",
+      "focus": "Cloudflare platform updates, API announcements, and developer insights",
       "type": "Website",
       "tier": "Primary",
       "vertical": "API Economy",
@@ -7130,7 +7004,7 @@
     },
     {
       "name": "The Conversation Science",
-      "url": "https://theconversation.com/us/science",
+      "url": "https://theconversation.com/us",
       "focus": "Academic research explained for public",
       "type": "Website",
       "tier": "Niche",
@@ -7402,15 +7276,6 @@
       "name": "IndieWire",
       "url": "https://www.indiewire.com/",
       "focus": "Independent film and streaming",
-      "type": "Website",
-      "tier": "Primary",
-      "vertical": "Digital Media & Streaming",
-      "emoji": "📺"
-    },
-    {
-      "name": "Netflix Tech Blog",
-      "url": "https://netflixtechblog.com/",
-      "focus": "Streaming engineering at scale",
       "type": "Website",
       "tier": "Primary",
       "vertical": "Digital Media & Streaming",
